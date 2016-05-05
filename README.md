@@ -10,8 +10,8 @@ to be added as a member of [this Github
 organization](https://github.com/LondonRustLearners) (contact
 [Christian](mailto:chrjae@gmail.com) if there's no obvious way to
 request it from the Github website), you can then edit the wiki pages,
-or create new repositories within the group. (Or if you prefer, fork
-this repository then submit the changes.)
+or create new repositories within the group. (Alternatively you can fork 
+this repository then send pull requests without being member (yet).)
 
 (Note: if you want to edit this README file, then you need to click on
 it in the file view above this text first, and log in, to get the
