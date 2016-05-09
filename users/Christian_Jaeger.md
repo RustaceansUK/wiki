@@ -1,10 +1,14 @@
-# Christian's Links
+# Christian Jaeger
 
-## Learning
+[Github](https://github.com/pflanze)
+
+## My link collection
+
+### Learning
 
 [Rust by Example](http://rustbyexample.com/) ([HN](https://news.ycombinator.com/item?id=11657250))
 
-## Various
+### Various
 
 [(Nicholas Blumhardt) Exploring Rust](http://nblumhardt.com/2016/03/exploring-rust/) ([HN](https://news.ycombinator.com/item?id=11342742))
 
@@ -18,7 +22,7 @@
 
 [Non-Lexical Lifetimes in Rust](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) ([HN](https://news.ycombinator.com/item?id=11611436))
 
-## Rust on embedded 
+### Rust on embedded 
 
 [see ATS on embedded paper!]
 
