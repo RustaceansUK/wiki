@@ -44,3 +44,6 @@ working on parts of the [Redox OS](http://www.redox-os.org/)
 
 * [Rust London User Group](http://www.meetup.com/Rust-London-User-Group/)
 
+## Index
+
+* [User pages](User_pages.md)
