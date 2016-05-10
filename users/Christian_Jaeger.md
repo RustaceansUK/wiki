@@ -22,6 +22,8 @@
 
 [Non-Lexical Lifetimes in Rust](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) ([HN](https://news.ycombinator.com/item?id=11611436))
 
+[DOOM on Glium](https://docs.google.com/presentation/d/1TjWba0CR9RHFm47rvW1nFUlmouaR55Xt235aHyLPf9U/edit#slide=id.p) ([HN](https://news.ycombinator.com/item?id=11666017)) (slides from presentation from Rust meetup on May 5)
+
 ### Rust on embedded 
 
 [see ATS on embedded paper!]
