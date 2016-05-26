@@ -28,7 +28,7 @@
 
 ### Rust on embedded 
 
-[see ATS on embedded paper!]
+(compare with ATS on embedded: [Arduino programing of ML-style in ATS (Kiwamu Okabe and Hongwei Xi)](http://www.metasepi.org/doc/metasepi-icfp2015-arduino-ats.pdf), [Github](https://github.com/fpiot/arduino-ats), BTW: [Reddit](https://www.reddit.com/r/ats))
 
 [Using the Rust Language on Embedded Projects](https://spin.atomicobject.com/2015/02/20/rust-language-c-embedded/)
 
