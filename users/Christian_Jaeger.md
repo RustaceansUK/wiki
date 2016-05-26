@@ -24,6 +24,8 @@
 
 [DOOM on Glium](https://docs.google.com/presentation/d/1TjWba0CR9RHFm47rvW1nFUlmouaR55Xt235aHyLPf9U/edit#slide=id.p) ([HN](https://news.ycombinator.com/item?id=11666017)) (slides from presentation from Rust meetup on May 5)
 
+[The Path to Rust](https://thesquareplanet.com/blog/the-path-to-rust/?) ([HN](https://news.ycombinator.com/item?id=11774850))
+
 ### Rust on embedded 
 
 [see ATS on embedded paper!]
