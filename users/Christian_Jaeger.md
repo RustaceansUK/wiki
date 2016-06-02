@@ -28,6 +28,9 @@
 
 [The 'Tootsie Pop' model for unsafe code](http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/) ([HN](https://news.ycombinator.com/item?id=11787846))
 
+[Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) ([HN](https://news.ycombinator.com/item?id=11823949))
+
+
 ### Rust on embedded 
 
 (compare with ATS on embedded: [Arduino programing of ML-style in ATS (Kiwamu Okabe and Hongwei Xi)](http://www.metasepi.org/doc/metasepi-icfp2015-arduino-ats.pdf), [Github](https://github.com/fpiot/arduino-ats), BTW: [Reddit](https://www.reddit.com/r/ats))
