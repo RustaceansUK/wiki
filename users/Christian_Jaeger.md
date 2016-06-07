@@ -30,6 +30,7 @@
 
 [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) ([HN](https://news.ycombinator.com/item?id=11823949))
 
+[Lambda crabs (part 1): A mathematical introduction to lifetimes and regions](http://ticki.github.io/blog/lambda_crabs_1/) ([HN](https://news.ycombinator.com/item?id=11850037))
 
 ### Rust on embedded 
 
