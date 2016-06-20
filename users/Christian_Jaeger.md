@@ -32,6 +32,9 @@
 
 [Lambda crabs (part 1): A mathematical introduction to lifetimes and regions](http://ticki.github.io/blog/lambda_crabs_1/) ([HN](https://news.ycombinator.com/item?id=11850037))
 
+[Afl.rs: Fuzzing Rust code with american-fuzzy-lop](https://github.com/frewsxcv/afl.rs) ([HN](https://news.ycombinator.com/item?id=11936983))
+
+
 ### Rust on embedded 
 
 (compare with ATS on embedded: [Arduino programing of ML-style in ATS (Kiwamu Okabe and Hongwei Xi)](http://www.metasepi.org/doc/metasepi-icfp2015-arduino-ats.pdf), [Github](https://github.com/fpiot/arduino-ats), BTW: [Reddit](https://www.reddit.com/r/ats))
