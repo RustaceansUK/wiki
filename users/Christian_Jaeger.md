@@ -34,6 +34,9 @@
 
 [Afl.rs: Fuzzing Rust code with american-fuzzy-lop](https://github.com/frewsxcv/afl.rs) ([HN](https://news.ycombinator.com/item?id=11936983))
 
+[Shipping forgettable microservices with Rust](https://precompile.com/2016/06/23/shipping-forgettable-microservices-with-rust.html) ([HN](https://news.ycombinator.com/item?id=11968613))
+
+
 ### Lowlevel
 
 * (LLVM: [ThinLTO: Scalable and Incremental LTO](http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html) ([Rust Reddit](https://www.reddit.com/r/rust/comments/4p4l5k/), [HN](https://news.ycombinator.com/item?id=11961621)))
