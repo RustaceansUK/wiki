@@ -36,6 +36,10 @@
 
 [Shipping forgettable microservices with Rust](https://precompile.com/2016/06/23/shipping-forgettable-microservices-with-rust.html) ([HN](https://news.ycombinator.com/item?id=11968613))
 
+[Thrussh (Portable SSH client and server library)](https://pijul.org/thrussh/) ([HN](https://news.ycombinator.com/item?id=12057386))
+
+[Corrode: C to Rust translator written in Haskell](https://github.com/jameysharp/corrode) ([HN](https://news.ycombinator.com/item?id=12056230))
+
 
 ### Lowlevel
 
