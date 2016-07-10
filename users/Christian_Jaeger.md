@@ -40,6 +40,9 @@
 
 [Corrode: C to Rust translator written in Haskell](https://github.com/jameysharp/corrode) ([HN](https://news.ycombinator.com/item?id=12056230))
 
+[Embryonic Rust TLS library](https://github.com/ctz/rustls) ([HN](https://news.ycombinator.com/item?id=12064022))
+
+[The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/README.html) ("you should consider reading The Book first") ([HN](https://news.ycombinator.com/item?id=12065912), "In Rust even a basic double linked list requires unsafe. Then there are those that make use of unsafe to try to express code that cannot be proven by the type system, instead of plain memory corruption issues. Thankfully the core team is against this trend." vs. "You can write a doubly linked list using Rc and Weak pointers and no unsafe code.")
 
 ### Lowlevel
 
