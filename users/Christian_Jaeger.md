@@ -57,3 +57,8 @@
 
 [Suitability of Rust for embedded development - The Rust Programming Language Forum](https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371)
 
+
+### Other people's projects
+
+[entropy gathering daemon (EGD) server)](https://gitlab.com/JasperWallace/egd-server)
+
