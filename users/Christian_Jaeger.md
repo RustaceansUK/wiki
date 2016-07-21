@@ -44,6 +44,9 @@
 
 [The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/README.html) ("you should consider reading The Book first") ([HN](https://news.ycombinator.com/item?id=12065912), "In Rust even a basic double linked list requires unsafe. Then there are those that make use of unsafe to try to express code that cannot be proven by the type system, instead of plain memory corruption issues. Thankfully the core team is against this trend." vs. "You can write a doubly linked list using Rc and Weak pointers and no unsafe code.")
 
+[Neon](https://github.com/rustbridge/neon) ([HN](https://news.ycombinator.com/item?id=12135650), also see 'previously': [Neon: Node + Rust](http://calculist.org/blog/2015/12/23/neon-node-rust/))
+
+
 ### Lowlevel
 
 * (LLVM: [ThinLTO: Scalable and Incremental LTO](http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html) ([Rust Reddit](https://www.reddit.com/r/rust/comments/4p4l5k/), [HN](https://news.ycombinator.com/item?id=11961621)))
