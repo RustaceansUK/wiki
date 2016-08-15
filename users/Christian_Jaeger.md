@@ -1,6 +1,6 @@
 # Christian Jaeger
 
-[Github](https://github.com/pflanze)
+[My Github account](https://github.com/pflanze)
 
 ## My link collection
 
