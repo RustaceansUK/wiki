@@ -46,6 +46,8 @@
 
 [Neon](https://github.com/rustbridge/neon) ([HN](https://news.ycombinator.com/item?id=12135650), also see 'previously': [Neon: Node + Rust](http://calculist.org/blog/2015/12/23/neon-node-rust/))
 
+[What’s new with “The Rust Programming Language”?](http://words.steveklabnik.com/whats-new-with-the-rust-programming-language): "Let’s talk about what’s going on with the book today." ([HN](https://news.ycombinator.com/item?id=12291615)) ([The Rust Programming Language](http://rust-lang.github.io/book/))
+
 
 ### Lowlevel
 
