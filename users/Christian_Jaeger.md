@@ -2,6 +2,11 @@
 
 [My Github account](https://github.com/pflanze)
 
+## Project ideas
+
+* dhcp daemon
+* openvpn replacement
+
 ## My link collection
 
 ### Learning
