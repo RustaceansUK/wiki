@@ -67,6 +67,8 @@
 
 [Suitability of Rust for embedded development - The Rust Programming Language Forum](https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371)
 
+[FreeRTOS meets Rust](http://www.hashmismatch.net/freertos-meets-rust/) ([HN](https://news.ycombinator.com/item?id=12592161))
+
 
 ### Other people's projects
 
