@@ -78,3 +78,5 @@
 
 [entropy gathering daemon (EGD) server)](https://gitlab.com/JasperWallace/egd-server)
 
+* [Robigalia](https://robigalia.org/) ([HN](https://news.ycombinator.com/item?id=13267298): *"you'll be interested in Robigalia, which is an OS that couples SEL4 with a Rust userland"*)
+
