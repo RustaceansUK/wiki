@@ -82,3 +82,5 @@
 
 * [Compiling Rust to WebAssembly Guide](https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde#.x4y184tj6) ([HN](https://news.ycombinator.com/item?id=13323396))
 
+* [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/) ([HN](https://news.ycombinator.com/item?id=13338592))
+
