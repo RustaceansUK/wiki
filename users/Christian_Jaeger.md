@@ -84,3 +84,5 @@
 
 * [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/) ([HN](https://news.ycombinator.com/item?id=13338592))
 
+* [Rust by Example](http://rustbyexample.com/index.html) ([HN](https://news.ycombinator.com/item?id=13402770))
+
