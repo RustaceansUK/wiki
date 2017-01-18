@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 # Welcome
 
 We are a bunch of hackers learning and improving in the use of the

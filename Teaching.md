@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 # Teaching materials
 
 * [the Rust book](http://doc.rust-lang.org/book/)

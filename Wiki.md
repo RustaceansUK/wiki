@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 # Website / Wiki
 
 This website is generated from Markdown files in a normal 

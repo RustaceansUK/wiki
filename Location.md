@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 ## Location
 
 We are going to be hosted by Skills Matter and will (currently) be using the tables in the lobby.

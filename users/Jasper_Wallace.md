@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 # Jasper Wallace
 
 (Links that Jasper sent to [me](Christian_Jaeger.md) and agreed to

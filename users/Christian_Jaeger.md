@@ -1,3 +1,8 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
 # Christian Jaeger
 
 * [My Github account](https://github.com/pflanze)
