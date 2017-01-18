@@ -1,6 +1,6 @@
-# Rustaceans of the UK
+# London Rust Hackers
 
-We are a group of hackers learning and improving in the use of the
+We are a bunch of hackers learning and improving in the use of the
 [Rust programming language](https://www.rust-lang.org/).
 
 Our current group is based in London, but if you're interested in
