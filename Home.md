@@ -9,22 +9,6 @@ welcome to add your pages here, and we can also add subdomains of
 rustaceans.uk if that suits you. Just write to our mailing list or
 contact [Christian](users/Christian_Jaeger.md).
 
-## Wiki
-
-This is a normal Github repository. If you'd like to participate, ask
-to be added as a member of [this Github
-organization](https://github.com/LondonRustLearners) (contact
-[Christian](mailto:chrjae@gmail.com) if there's no obvious way to
-request it from the Github website), you can then edit the wiki pages,
-or create new repositories within the group. (Alternatively you can fork 
-this repository then send pull requests without being member (yet).)
-
-(Note: if you want to edit this README file, then you need to click on
-it in the file view above this text first, and log in, to get the
-stencil symbol at the right for editing online. You can also clone and
-push back changes to this repository without going through the
-website.)
-
 ## Plans
 
 The first aim is to get a minimal fluency in Rust, by working through
