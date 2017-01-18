@@ -1,4 +1,4 @@
-# London Rust Hackers
+# Welcome
 
 We are a bunch of hackers learning and improving in the use of the
 [Rust programming language](https://www.rust-lang.org/).
