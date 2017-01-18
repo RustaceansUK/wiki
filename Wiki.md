@@ -20,3 +20,8 @@ without being member (yet).)
 The website updates automatically every 10 minutes from Github. You
 can also trigger a sync earlier by pressing the sync button (top right
 corner of the page).
+
+You can also create new pages, they will automatically appear in the
+navigation bar shown on the website (in a pretty random position,
+though, ask [Christian](mailto:chrjae@gmail.com) to change this in the
+configuration).
