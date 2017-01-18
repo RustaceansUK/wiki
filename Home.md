@@ -32,11 +32,6 @@ working on parts of the [Redox OS](http://www.redox-os.org/)
 
 ## Links
 
-* [Rust London User Group](http://www.meetup.com/Rust-London-User-Group/)
-
-## Index
-
-* [Location](Location.md)
-* [Teaching](Teaching.md)
-* [User pages](User_pages.md)
-
+* [Rust London User
+  Group](http://www.meetup.com/Rust-London-User-Group/) (meetup.com)
+  used for organization of our meetup dates.
