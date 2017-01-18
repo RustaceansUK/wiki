@@ -1,4 +1,4 @@
-# London Rust Learners wiki
+# The London Rust Hackers
 
 We are a group of Londoners learning and improving in the use of the
 [Rust programming language](https://www.rust-lang.org/).
