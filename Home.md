@@ -35,7 +35,7 @@ parallel on separate tables:
     * implementation of security sensitive system libraries and
       programs like a DHCP client (leader: ?)
     * work on parts of [Redox OS](http://www.redox-os.org/)
-      ([HN](https://news.ycombinator.com/item?id=10295187)) (leader: ?)
+      ([HN](https://news.ycombinator.com/item?id=10295187)) (leader: [Jasper](users/Jasper_Wallace.md)?)
 
   Please add new active projects above (and link to their project
   page), and if you've got a leader then please mention him/her.
