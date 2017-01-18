@@ -46,6 +46,7 @@ working on parts of the [Redox OS](http://www.redox-os.org/)
 
 ## Index
 
+* [Location](Location.md)
 * [Teaching](Teaching.md)
 * [User pages](User_pages.md)
 
