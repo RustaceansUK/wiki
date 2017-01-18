@@ -57,4 +57,5 @@ parallel on separate tables:
 
 * [Rust London User
   Group](http://www.meetup.com/Rust-London-User-Group/) (meetup.com)
-  used for organization of our meetup dates.
+  used for organization of our meetup dates, as well as the regular
+  evenings with talks.
