@@ -11,4 +11,4 @@ this repository then send pull requests without being member (yet).)
 
 The website updates automatically every 10 minutes from Github. You
 can also trigger a sync earlier by pressing the sync button (top right
-corner of page).
+corner of the page).
