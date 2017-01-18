@@ -5,4 +5,5 @@ may not be immediately useful for everyone (to avoid cluttering up the
 common space). This includes, for example, link collections.
 
 * [Christian Jaeger](users/Christian_Jaeger.md)
+* [Jasper Wallace](users/Jasper_Wallace.md)
 
