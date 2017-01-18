@@ -1,6 +1,8 @@
 # Christian Jaeger
 
-[My Github account](https://github.com/pflanze)
+* [My Github account](https://github.com/pflanze)
+
+* [Contact](http://christianjaeger.ch/contact.html)
 
 ## Project ideas
 
