@@ -22,9 +22,8 @@ can store common materials/results.<!-- XXX sep wiki page on that topic? well Wi
 
 ## Activities
 
-The place can be used freely however you like, although we concentrate
-on the following by grouping up, with separate groups working in
-parallel on separate tables:
+We plan to do the following in sub-groups, with separate sub-groups
+working in parallel on separate tables:
 
 * Get a minimal fluency in Rust, by working through [the Rust
   book](http://doc.rust-lang.org/book/) (online).
@@ -51,6 +50,9 @@ parallel on separate tables:
   everybody pitches in with help how to solve it): not currently
   active, but perhaps as a continuation after we're done with the
   book?
+
+We may also find it useful to quickly (!, time will be short) discuss
+what's going on in each sub-group at the start of the evening.
 
 
 ## Links
