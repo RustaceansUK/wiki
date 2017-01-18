@@ -23,6 +23,7 @@ parallel on separate tables:
 
 * Get a minimal fluency in Rust, by working through [the Rust
   book](http://doc.rust-lang.org/book/) (online).
+    * Another idea: [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
 
 * Working on various projects in small teams. 
 
