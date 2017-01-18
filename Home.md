@@ -23,7 +23,7 @@ can store common materials/results.<!-- XXX sep wiki page on that topic? well Wi
 ## Activities
 
 The place can be used freely however you like, although we concentrate
-on the following by grouping up, with separate sub-groups working in
+on the following by grouping up, with separate groups working in
 parallel on separate tables:
 
 * Get a minimal fluency in Rust, by working through [the Rust
