@@ -3,7 +3,7 @@ properly formatted versions of these documents.
 
 ---
 
-# Welcome
+# Welcome you!
 
 We are a bunch of hackers learning and improving in the use of the
 [Rust programming language](https://www.rust-lang.org/).
