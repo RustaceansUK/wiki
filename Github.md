@@ -21,9 +21,9 @@ of the Github organization yet, then Github lets you save to a fork
 and then send a pull request, which is fine, too (Christian will merge
 the change).
 
-The website updates automatically every 10 minutes from Github. You
-can also trigger a sync earlier by pressing the sync button (top right
-corner of the page).
+The website updates automatically every 10 minutes. You can also
+trigger a sync from Github immediately by pressing the sync button
+(top right corner of the page).
 
 You can also create new pages, they will automatically appear in the
 navigation bar shown on the website (in a pretty random position,
