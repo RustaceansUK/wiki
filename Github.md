@@ -23,7 +23,7 @@ the change).
 
 The website updates automatically every 10 minutes. You can also
 trigger a sync from Github immediately by pressing the sync button
-(top right corner of the page).
+(top right corner of the page, updates all pages at once).
 
 You can also create new pages, they will automatically appear in the
 navigation bar shown on the website (in a pretty random position,
