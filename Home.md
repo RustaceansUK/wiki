@@ -25,6 +25,8 @@ Monday January 30 at 7 PM, in the Escape at CodeNode, 10 South Place, London, EC
 
 We will meet up from 6:30 PM for socializing and preparing and start the learning activity at 7 PM.
 
+Join the discussion on the [Rust London User Group meetup page](https://www.meetup.com/Rust-London-User-Group/).
+
 ## Activities
 
 We plan to do the following in sub-groups, with separate sub-groups
