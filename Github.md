@@ -27,5 +27,5 @@ trigger a sync from Github immediately by pressing the sync button
 
 You can also create new pages, they will automatically appear in the
 navigation bar shown on the website (in a pretty random position,
-though, ask [Christian](mailto:chrjae@gmail.com) to change this in the
-configuration).
+though, ask [Christian](mailto:chrjae@gmail.com) to nail down the
+position in the configuration).
