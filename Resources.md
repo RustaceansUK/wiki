@@ -3,7 +3,9 @@ properly formatted versions of these documents.
 
 ---
 
-# Teaching materials
+# Resources
+
+## Teaching materials
 
 * [the Rust book](http://doc.rust-lang.org/book/)
 
