@@ -21,7 +21,7 @@ store common materials/results.
 
 ## Our next and first meeting
 
-Monday January 30 at 7 PM, in the Escape at CodeNode, 10 South Place, London, EC2M 7EB. 
+Monday January 30 at 7 PM, in the [Esc](https://skillsmatter.com/event-space)ape at CodeNode, 10 South Place, London, EC2M 7EB. 
 
 We will meet up from 6:30 PM for socializing and preparing and start the learning activity at 7 PM.
 
