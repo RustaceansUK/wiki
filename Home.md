@@ -3,7 +3,7 @@ properly formatted versions of these documents.
 
 ---
 
-# Welcome
+# Rust learning and hacking group
 
 We are a bunch of hackers learning and improving in the use of the
 [Rust programming language](https://www.rust-lang.org/).
