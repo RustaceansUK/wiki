@@ -14,11 +14,16 @@ welcome to add your pages here, and we can also add subdomains of
 rustaceans.uk if that suits you. Just write to our mailing list or
 contact [Christian](users/Christian_Jaeger.md).
 
-We meet once a month at Skills Matter (usually last Monday in the
+We meet once a month at CodeNode from Skills Matter (usually last Monday in the
 month?, usually from 7 PM) to learn and work on projects. We've got [a
 Github organization](https://github.com/LondonRustLearners/) where we
 can store common materials/results.<!-- XXX sep wiki page on that topic? well Wiki.md page?-->  <!-- XXX mention mailing list + IRC -->
 
+## Our next and first meeting
+
+Monday January 30 at 7 PM, in the Escape at CodeNode, 10 South Place, London, EC2M 7EB. 
+
+We will meet up from 6:30 PM for socializing and preparing and start the learning activity at 7 PM.
 
 ## Activities
 
