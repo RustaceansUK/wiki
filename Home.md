@@ -63,10 +63,3 @@ working in parallel on separate tables:
 We may also find it useful to quickly (!, time will be short) discuss
 what's going on in each sub-group at the start of the evening.
 
-
-## Links
-
-* [Rust London User
-  Group](http://www.meetup.com/Rust-London-User-Group/) (meetup.com)
-  used for organization of our meetup dates, as well as the regular
-  evenings with talks.
