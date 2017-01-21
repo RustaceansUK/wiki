@@ -5,7 +5,7 @@ properly formatted versions of these documents.
 
 # Rust learning and hacking group
 
-We are a bunch of hackers in [London (UK)](Location.md) learning and
+We are a bunch of hackers in [the UK (London)](Location.md) learning and
 improving in the use of the [Rust programming
 language](https://www.rust-lang.org/).
 
