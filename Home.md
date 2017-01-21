@@ -34,7 +34,7 @@ We plan to do the following in sub-groups working in parallel:
 
 * Working on projects: in pairs, teams, or alone; even if you're
   working alone, you may find it beneficial to have other Rustaceans
-  around. We might also do formal Q&A sessions sometimes.
+  around. We might also reserve time for asking questions to the plenum.
 
     * various projects suitable to work on in small teams. 
 
