@@ -12,5 +12,5 @@ listed to the right in the navigation (will become a submenu in the
 future).
 
 Don't be shy to create your own user page, just say "Create new file"
-on the [Github
-directory](https://github.com/LondonRustLearners/wiki/edit/master/users/).
+on the [users directory in
+Github](https://github.com/LondonRustLearners/wiki/edit/master/users/).
