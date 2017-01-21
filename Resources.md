@@ -12,7 +12,7 @@ properly formatted versions of these documents.
 
 * Our namesakes:
     * [Rustacean.net: Home of Ferris the
-      Crab](http://www.rustacean.net/), home of our logo
+      Crab](http://www.rustacean.net/), our mascot
     * [Rustaceans (rustaceans.org)](http://rustaceans.org/),
       a people database and IRC channel list
 
