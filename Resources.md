@@ -10,8 +10,7 @@ properly formatted versions of these documents.
   used for organization of our meetup dates, as well as the regular
   evenings with talks.
 
-* Our "parent organization" of some sorts, [Rustaceans
-  (rustaceans.org)](http://rustaceans.org/)
+* [Rustaceans worldwide (rustaceans.org)](http://rustaceans.org/)
 
 * [Rust Community Team (community.rs)](https://community.rs/)
 
