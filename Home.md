@@ -5,14 +5,9 @@ properly formatted versions of these documents.
 
 # Rust learning and hacking group
 
-We are a bunch of hackers learning and improving in the use of the
-[Rust programming language](https://www.rust-lang.org/).
-
-Our current group is based in London, but if you're interested in
-creating another group somewhere else in the UK you're more than
-welcome to add your pages here, and we can also add subdomains of
-rustaceans.uk if that suits you. Just write to our mailing list or
-contact [Christian](users/Christian_Jaeger.md).
+We are a bunch of hackers in [London (UK)](Location.md) learning and
+improving in the use of the [Rust programming
+language](https://www.rust-lang.org/).
 
 We meet once a month at CodeNode of Skills Matter (usually last
 Monday in the month?, usually from 6:30/7 PM) to learn and to work on
