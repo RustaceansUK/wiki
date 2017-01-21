@@ -10,9 +10,15 @@ properly formatted versions of these documents.
   used for organization of our meetup dates, as well as the regular
   evenings with talks.
 
-* [Rustaceans worldwide (rustaceans.org)](http://rustaceans.org/)
+* Our namesakes:
+    * [Rustacean.net: Home of Ferris the
+      Crab](http://www.rustacean.net/), home of our logo
+    * [Rustaceans (rustaceans.org)](http://rustaceans.org/),
+      a people database and IRC channel list
 
 * [Rust Community Team (community.rs)](https://community.rs/)
+
+* [The Rust Community Reference (community.rs/resources/)](https://community.rs/resources/), the ultimative Rust resources list
 
 * [The Underhanded Rust Contest (underhanded.rs)](https://underhanded.rs/)
 
