@@ -7,8 +7,10 @@ properly formatted versions of these documents.
 
 Become a member of [our Github
 organization](https://github.com/LondonRustLearners), then you can
-upload your project files or save wiki edits directly. Ask
-[Christian](mailto:chrjae@gmail.com) (TODO: CGI).
+upload your project files or save wiki edits directly. Send your
+Github user name to [Christian](mailto:chrjae@gmail.com) if you
+haven't already answered the question in the RSVP question on
+meetup.com.
 
 ## Website / Wiki
 
