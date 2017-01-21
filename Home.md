@@ -26,28 +26,31 @@ Join the discussion on the [Rust London User Group meetup page](https://www.meet
 
 ## Activities
 
-We plan to do the following in sub-groups, with separate sub-groups
-working in parallel on separate tables:
+We plan to do the following in sub-groups working in parallel:
 
 * Get a minimal fluency in Rust, by working through [the Rust
   book](http://doc.rust-lang.org/book/) (online).
     * Another idea: [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
 
-* Working on various projects in small teams. 
+* Working on projects: in pairs, teams, or alone; even if you're
+  working alone, you may find it beneficial to have other Rustaceans
+  around. We might also do formal Q&A sessions sometimes.
 
-    * implementation of security sensitive system libraries and
-      programs like a DHCP client (leader: ?)
-    * work on parts of [Redox OS](http://www.redox-os.org/)
-      ([HN](https://news.ycombinator.com/item?id=10295187)) (leader: [Jasper](users/Jasper_Wallace.md)?)
+    * various projects suitable to work on in small teams. 
 
-  Please add new active projects above (and link to their project
-  page), and if you've got a leader then please mention him/her.
+        * implementation of security sensitive system libraries and
+          programs like a DHCP client (leader: ?)
+        * work on parts of [Redox OS](http://www.redox-os.org/)
+          ([HN](https://news.ycombinator.com/item?id=10295187)) (leader: [Jasper](users/Jasper_Wallace.md)?)
 
-* Working on personal projects. Mention your project and your name
-  here if you're interested in letting the others know and welcome
-  contributions!
+      Please add new active projects above (and link to their project
+      page), and if you've got a leader then please mention him/her.
 
-    * ...
+    * personal projects. Mention your project and your name
+      here if you're interested in letting the others know and welcome
+      potential contributions!
+
+        * ...
 
 * Code Dojo (which means, decide at the start of the evening what to
   figure out or write, elect someone to type at a common screen,
@@ -55,6 +58,8 @@ working in parallel on separate tables:
   active, but perhaps as a continuation after we're done with the
   book?
 
-We may also find it useful to quickly (!, time will be short) discuss
-what's going on in each sub-group at the start of the evening.
 
+At each event we'll first (at 7:00 PM) give a quick overview on what's
+going on so that new attendants can decide which sub-group to
+join. Also, after the event we'll add a summary about the status of
+each sub-group to the wiki here.
