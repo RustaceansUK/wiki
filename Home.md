@@ -23,7 +23,7 @@ store common materials/results.
 
 Monday January 30 at 7 PM, in the [Esc](https://skillsmatter.com/event-space)ape at CodeNode, 10 South Place, London, EC2M 7EB. 
 
-We will meet up from 6:30 PM for socializing and preparing and start the learning activity at 7 PM.
+We will meet up from 6:30 PM for socializing and preparing and start the learning activity at 7 PM. We'll have to leave the space around 9:30 PM (so we don't have much time, really!)
 
 Join the discussion on the [Rust London User Group meetup page](https://www.meetup.com/Rust-London-User-Group/).
 
