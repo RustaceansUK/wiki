@@ -15,7 +15,7 @@ rustaceans.uk if that suits you. Just write to our mailing list or
 contact [Christian](users/Christian_Jaeger.md).
 
 We meet once a month at CodeNode of Skills Matter (usually last
-Monday in the month?, usually from 7 PM) to learn and to work on
+Monday in the month?, usually from 6:30/7 PM) to learn and to work on
 projects. We've got [a Github organization](Github.md) where we can
 store common materials/results.
 
