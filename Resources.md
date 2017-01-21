@@ -14,6 +14,8 @@ properly formatted versions of these documents.
 
 * [Rust Community Team (community.rs)](https://community.rs/)
 
+* [The Underhanded Rust Contest (underhanded.rs)](https://underhanded.rs/)
+
 
 ## Teaching materials
 
