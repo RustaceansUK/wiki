@@ -6,13 +6,12 @@ properly formatted versions of these documents.
 # Christian Jaeger
 
 * [My Github account](https://github.com/pflanze)
-
 * [Contact](http://christianjaeger.ch/contact.html)
 
 ## Project ideas
 
-* dhcp daemon
-* openvpn replacement
+* DHCP daemon
+* OpenVPN replacement
 
 ## My link collection
 
