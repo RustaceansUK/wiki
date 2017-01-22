@@ -13,4 +13,4 @@ future).
 
 Don't be shy to create your own user page, just say "Create new file"
 on the [users directory in
-Github](https://github.com/LondonRustLearners/wiki/edit/master/users/).
+Github](https://github.com/RustaceansUK/wiki/edit/master/users/).
