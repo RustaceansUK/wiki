@@ -54,7 +54,7 @@ We plan to do the following in sub-groups working in parallel:
 
 * Code Dojo (which means, decide at the start of the evening what to
   figure out or write, elect someone to type at a common screen,
-  everybody pitches in with help how to solve it): not currently
+  everybody pitches in with steps helping to solve it): not currently
   active, but perhaps as a continuation after we're done with the
   book?
 
