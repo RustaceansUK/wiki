@@ -56,7 +56,8 @@ We plan to do the following in sub-groups working in parallel:
   figure out or write, elect someone to type at a common screen,
   everybody pitches in with steps helping to solve it): not currently
   active, but perhaps as a continuation after we're done with the
-  book?
+  book? (We might be holding these at the Rust user group meetings in
+  the classroom instead, though.)
 
 
 At each event we'll first (at 7:00 PM) give a quick overview on what's
