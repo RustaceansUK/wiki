@@ -36,15 +36,11 @@ We plan to do the following in sub-groups working in parallel:
   working alone, you may find it beneficial to have other Rustaceans
   around. We might also reserve time for asking questions to the plenum.
 
-    * various projects suitable to work on in small teams. 
+    * various projects suitable to work on in small teams. Have a look
+      at [project ideas](Project_ideas.md). Add here if you're
+      dedicated going forward with a project.
 
-        * implementation of security sensitive system libraries and
-          programs like a DHCP client (leader: ?)
-        * work on parts of [Redox OS](http://www.redox-os.org/)
-          ([HN](https://news.ycombinator.com/item?id=10295187)) (leader: [Jasper](users/Jasper_Wallace.md)?)
-
-      Please add new active projects above (and link to their project
-      page), and if you've got a leader then please mention him/her.
+        * ...
 
     * personal projects. Mention your project and your name
       here if you're interested in letting the others know and welcome
