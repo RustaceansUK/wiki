@@ -95,7 +95,7 @@ pre > code {
 a.header, a.header:visited, a.header:active, a.header:hover { color: #000 }
 
 body {
-  overflow-x: hidden;
+  overflow-x: hidden;g
   max-width: 750px;
   margin: 10px auto;
   font-family: Roboto, sans-serif;
@@ -137,7 +137,7 @@ hr {
 */
 
 
-h1, h2 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
   box-shadow: 10px 10px #bab;
   padding: 2px 10px;
