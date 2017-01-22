@@ -9,7 +9,7 @@ We are a bunch of hackers in [the UK (London)](Location.md) learning and
 improving in the use of the [Rust programming
 language](https://www.rust-lang.org/).
 
-We meet once a month at CodeNode of Skills Matter (usually last
+We meet up once a month at CodeNode of Skills Matter (usually last
 Monday in the month?, usually from 6:30/7 PM) to learn and to work on
 projects. We've got [a Github organization](Github.md) where we can
 store common materials/results. And we've got our very own IRC channel `#rustaceans.uk` on [irc.mozilla.org](https://wiki.mozilla.org/IRC)
