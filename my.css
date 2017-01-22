@@ -95,7 +95,7 @@ pre > code {
 a.header, a.header:visited, a.header:active, a.header:hover { color: #000 }
 
 body {
-  overflow-x: hidden;g
+  overflow-x: hidden;
   max-width: 750px;
   margin: 10px auto;
   font-family: Roboto, sans-serif;
