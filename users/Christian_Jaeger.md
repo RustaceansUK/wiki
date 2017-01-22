@@ -93,3 +93,5 @@ properly formatted versions of these documents.
 
 * [Rust by Example](http://rustbyexample.com/index.html) ([HN](https://news.ycombinator.com/item?id=13402770))
 
+* [Short intro to C++ for Rust developers: Ownership and Borrowing](http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html) ([HN](https://news.ycombinator.com/item?id=13456852))
+
