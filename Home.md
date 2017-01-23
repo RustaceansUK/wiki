@@ -27,7 +27,7 @@ The learning group will go through the chapters "Getting started" and as much of
 
 The attendants wanting to work on team projects will hold and listen to pitches on which projects they would like to or could work on and why those are suited, will build the teams, then start work.
 
-Join the discussion on the [Rust London User Group meetup page](https://www.meetup.com/Rust-London-User-Group/).
+Join the discussion on the Rust London User Group [meetup event page](https://www.meetup.com/Rust-London-User-Group/events/237073865/).
 
 
 ## Activities
