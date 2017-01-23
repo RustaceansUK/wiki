@@ -161,6 +161,11 @@ p {
   font-size: 19px;
 }
 
+
+em {
+  font-family: serif;
+}
+
 dir.top {
   margin: 0.8em;
   padding: 0px;
