@@ -19,6 +19,35 @@ properly formatted versions of these documents.
 
 * [Rust by Example](http://rustbyexample.com/) ([HN](https://news.ycombinator.com/item?id=11657250))
 
+
+### Lowlevel
+
+* (LLVM: [ThinLTO: Scalable and Incremental LTO](http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html) ([Rust Reddit](https://www.reddit.com/r/rust/comments/4p4l5k/), [HN](https://news.ycombinator.com/item?id=11961621)))
+
+
+### Rust on embedded 
+
+* (compare with ATS on embedded: [Arduino programing of ML-style in ATS (Kiwamu Okabe and Hongwei Xi)](http://www.metasepi.org/doc/metasepi-icfp2015-arduino-ats.pdf), [Github](https://github.com/fpiot/arduino-ats), BTW: [Reddit](https://www.reddit.com/r/ats))
+
+* [Using the Rust Language on Embedded Projects](https://spin.atomicobject.com/2015/02/20/rust-language-c-embedded/)
+
+* [Suitability of Rust for embedded development - The Rust Programming Language Forum](https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371)
+
+* [FreeRTOS meets Rust](http://www.hashmismatch.net/freertos-meets-rust/) ([HN](https://news.ycombinator.com/item?id=12592161))
+
+
+### Other people's projects
+
+* [entropy gathering daemon (EGD) server)](https://gitlab.com/JasperWallace/egd-server)
+
+* [Robigalia](https://robigalia.org/) ([HN](https://news.ycombinator.com/item?id=13267298): *"you'll be interested in Robigalia, which is an OS that couples SEL4 with a Rust userland"*)
+
+* [Compiling Rust to WebAssembly Guide](https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde#.x4y184tj6) ([HN](https://news.ycombinator.com/item?id=13323396))
+
+* [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/) ([HN](https://news.ycombinator.com/item?id=13338592))
+
+
+
 ### Various
 
 * [(Nicholas Blumhardt) Exploring Rust](http://nblumhardt.com/2016/03/exploring-rust/) ([HN](https://news.ycombinator.com/item?id=11342742))
@@ -62,33 +91,6 @@ properly formatted versions of these documents.
 * ([Rust and the Future of Systems Programming [video] (mozilla.org)](https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/) ([HN](https://news.ycombinator.com/item?id=12969014)) -- uh, promotion video)
 
 * [Rocket: Web Framework for Rust](https://rocket.rs/) ([HN](https://news.ycombinator.com/item?id=13245475))
-
-
-### Lowlevel
-
-* (LLVM: [ThinLTO: Scalable and Incremental LTO](http://blog.llvm.org/2016/06/thinlto-scalable-and-incremental-lto.html) ([Rust Reddit](https://www.reddit.com/r/rust/comments/4p4l5k/), [HN](https://news.ycombinator.com/item?id=11961621)))
-
-
-### Rust on embedded 
-
-* (compare with ATS on embedded: [Arduino programing of ML-style in ATS (Kiwamu Okabe and Hongwei Xi)](http://www.metasepi.org/doc/metasepi-icfp2015-arduino-ats.pdf), [Github](https://github.com/fpiot/arduino-ats), BTW: [Reddit](https://www.reddit.com/r/ats))
-
-* [Using the Rust Language on Embedded Projects](https://spin.atomicobject.com/2015/02/20/rust-language-c-embedded/)
-
-* [Suitability of Rust for embedded development - The Rust Programming Language Forum](https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371)
-
-* [FreeRTOS meets Rust](http://www.hashmismatch.net/freertos-meets-rust/) ([HN](https://news.ycombinator.com/item?id=12592161))
-
-
-### Other people's projects
-
-* [entropy gathering daemon (EGD) server)](https://gitlab.com/JasperWallace/egd-server)
-
-* [Robigalia](https://robigalia.org/) ([HN](https://news.ycombinator.com/item?id=13267298): *"you'll be interested in Robigalia, which is an OS that couples SEL4 with a Rust userland"*)
-
-* [Compiling Rust to WebAssembly Guide](https://medium.com/@chicoxyzzy/compiling-rust-to-webassembly-guide-411066a69fde#.x4y184tj6) ([HN](https://news.ycombinator.com/item?id=13323396))
-
-* [Announcing Alacritty, a GPU-accelerated terminal emulator](http://blog.jwilm.io/announcing-alacritty/) ([HN](https://news.ycombinator.com/item?id=13338592))
 
 * [Rust by Example](http://rustbyexample.com/index.html) ([HN](https://news.ycombinator.com/item?id=13402770))
 
