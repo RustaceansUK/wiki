@@ -19,7 +19,7 @@ store common materials/results. And we've got our very own IRC channel `#rustace
 
 ## Our next and first meeting
 
-Monday January 30 at 7 PM, in the [Esc](https://skillsmatter.com/event-space)ape at CodeNode, 10 South Place, London, EC2M 7EB. 
+Monday January 30 at 6:30/7 PM, in the [Esc](https://skillsmatter.com/event-space)ape at CodeNode, 10 South Place, London, EC2M 7EB. 
 
 We will meet up from 6:30 PM for socializing and preparing and will start the learning activity at 7 PM. We'll have to leave the space around 9:30 PM (so we don't have much time, really!) The learning group will go through the chapters "Getting started" and as much of "Tutorial: Guessing Game" as we manage (except if everybody is further ahead already and we decide to jump forward). Christian will offer access to a server with Rust already installed for those who don't have it working on their own machine.
 
