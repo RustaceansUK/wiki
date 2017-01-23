@@ -21,7 +21,7 @@ store common materials/results. And we've got our very own IRC channel `#rustace
 
 Monday January 30 at 7 PM, in the [Esc](https://skillsmatter.com/event-space)ape at CodeNode, 10 South Place, London, EC2M 7EB. 
 
-We will meet up from 6:30 PM for socializing and preparing and will start the learning activity at 7 PM. We'll have to leave the space around 9:30 PM (so we don't have much time, really!)
+We will meet up from 6:30 PM for socializing and preparing and will start the learning activity at 7 PM. We'll have to leave the space around 9:30 PM (so we don't have much time, really!) The learning group will go through the chapters "Getting started" and as much of "Tutorial: Guessing Game" as we manage (except if everybody is further ahead already and we decide to jump forward).
 
 Join the discussion on the [Rust London User Group meetup page](https://www.meetup.com/Rust-London-User-Group/).
 
@@ -31,7 +31,13 @@ Join the discussion on the [Rust London User Group meetup page](https://www.meet
 We plan to do the following in sub-groups working in parallel:
 
 * Get a minimal fluency in Rust, by working through [the Rust
-  book](http://doc.rust-lang.org/book/) (online).
+  book](http://doc.rust-lang.org/book/) (online). Christian will try
+  to make this a smooth experience, but keep in mind that this is not
+  a course, but a co-learning experience. We're in it together. We'll
+  build groups of ~3 people each to work through the material; if a
+  group is stuck, they'll ask the other groups or if unsuccessful see
+  whether they can get tips from Rustaceans working on projects.
+
     * Another idea: [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
 
 * Working on projects: in pairs, teams, or alone; even if you're
