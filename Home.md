@@ -19,7 +19,7 @@ store common materials/results. And we've got our very own IRC channel `#rustace
 
 ## Our next and first meeting
 
-Monday January 30 at 6:30/7 PM, in the Escape ([Esc](https://skillsmatter.com/event-space)) at CodeNode, 10 South Place, London, EC2M 7EB. 
+Monday January 30 at 6:30/7 PM, in the [Alt/Tab](https://skillsmatter.com/event-space) room at CodeNode, 10 South Place, London, EC2M 7EB. 
 
 We will meet up from 6:30 PM for socializing and preparing and will start the official activities at 7 PM. We'll have to leave the space around 9:30 PM (so we don't have much time, really!)
 
