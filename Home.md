@@ -29,7 +29,6 @@ The attendants wanting to work on team projects will hold and listen to pitches 
 
 Join the discussion on the Rust London User Group [meetup event page](https://www.meetup.com/Rust-London-User-Group/events/237073865/).
 
-*The event is more popular than I expected, I'm trying to get more space.*
 
 ## Activities
 
