@@ -14,8 +14,6 @@ Monday in the month?, usually from 6:30/7 PM) to learn and to work on
 projects. We've got [a Github organization](Github.md) where we can
 store common materials/results. And we've got our very own IRC channel `#rustaceans.uk` on [irc.mozilla.org](https://wiki.mozilla.org/IRC)
 
-<small>*We're still working on the layout for this website. Hopefully we can make it both well readable* and *visually appealing.*</small>
-
 
 ## Our next and first meeting
 
