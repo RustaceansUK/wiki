@@ -11,7 +11,9 @@ We are being hosted by Skills Matter and are (currently) using the tables in the
 
 Possible alternative locations might be:
 
-* the meeting room at the [London Hackspace](https://london.hackspace.org.uk/)
+* the meeting room at the [London
+  Hackspace](https://london.hackspace.org.uk/) -> will be too small
+  for us. (It's also rather noisy.)
 
 ## The UK Outside London
 
