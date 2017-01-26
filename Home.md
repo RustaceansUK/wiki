@@ -25,7 +25,7 @@ The learning group will go through the chapters "Getting started" and as much of
 
 The attendants wanting to work on team projects will hold and listen to pitches on which projects they would like to or could work on and why those are suited, will build the teams, then start work.
 
-Join the discussion on the Rust London User Group [meetup event page](https://www.meetup.com/Rust-London-User-Group/events/237073865/).
+Join the discussion on the Rust London User Group [meetup event page](https://www.meetup.com/Rust-London-User-Group/events/237073865/), and please register for the event at [Skills Matter's event page](https://skillsmatter.com/meetups/9012-rust-learning-and-hacking-evening-1).
 
 
 ## Activities
