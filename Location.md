@@ -5,15 +5,7 @@ properly formatted versions of these documents.
 
 ## Our London location
 
-We are being hosted by Skills Matter and are (currently) using the tables in the lobby.
-
-### Possible alternatives
-
-Possible alternative locations might be:
-
-* the meeting room at the [London
-  Hackspace](https://london.hackspace.org.uk/) -> will be too small
-  for us. (It's also rather noisy.)
+We are being hosted by Skills Matter.
 
 ## The UK Outside London
 
