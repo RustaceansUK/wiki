@@ -40,7 +40,10 @@ We plan to do the following in sub-groups working in parallel:
   group is stuck, they'll ask the other groups or if unsuccessful see
   whether they can get tips from Rustaceans working on projects.
 
-    * Another idea: [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
+  Other ideas:
+
+    * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
+    * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
 
 * Working on projects: in pairs, teams, or alone; even if you're
   working alone, you may find it beneficial to have other Rustaceans
