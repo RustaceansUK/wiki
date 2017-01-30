@@ -44,19 +44,22 @@ We plan to do the following in sub-groups working in parallel:
 
 * Working on projects: in pairs, teams, or alone; even if you're
   working alone, you may find it beneficial to have other Rustaceans
-  around. We might also reserve time for asking questions to the plenum.
+  around. We might also reserve time for asking questions to the
+  plenum.
 
-    * various projects suitable to work on in small teams. Have a look
-      at [project ideas](Project_ideas.md). Add here if you're
-      dedicated going forward with a project.
+  Active teams:
 
-        * ...
+    * [libbluez.rs](http://github.com/khvzak/libbluez-rs) by member
+      Aleksandr
+    * [crawler.rs](XXX) web scraper (experimental) by member XXX
+    * [orientdb](XXX) by member XXX
+    * [Redis wrapper](XXX) by member XXX
 
-    * personal projects. Mention your project and your name
-      here if you're interested in letting the others know and welcome
-      potential contributions!
+  Do you have a project in C/C++ that you're pondering rewriting in Rust?
 
-        * ...
+  Also check [project ideas](Project_ideas.md). If you stumble about
+  an interesting project feel free to add it there even if you don't
+  intend to work on it yourself during the evenings.
 
 * Code Dojo (which means, decide at the start of the evening what to
   figure out or write, elect someone to type at a common screen,
