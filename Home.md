@@ -54,9 +54,9 @@ We plan to do the following in sub-groups working in parallel:
 
     * [libbluez.rs](http://github.com/khvzak/libbluez-rs) by member
       Aleksandr
-    * [crawler.rs](XXX) web scraper (experimental) by member XXX
-    * [orientdb](XXX) by member XXX
-    * [...redis wrapper](XXX), a [Redis](https://en.wikipedia.org/wiki/Redis) wrapper by member XXX
+    * <!--[crawler.rs](XXX)--> web scraper (experimental) by member XXX
+    * <!--[orientdb](XXX)--> by member XXX
+    * <!--[...redis wrapper](XXX)-->, a [Redis](https://en.wikipedia.org/wiki/Redis) wrapper by member XXX
 
   Do you have a project in C/C++ that you're pondering rewriting in Rust?
 
