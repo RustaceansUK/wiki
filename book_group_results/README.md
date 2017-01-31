@@ -1,5 +1,19 @@
+Check our [website](http://rustaceans.uk/) for
+properly formatted versions of these documents.
+
+---
+
+# Book group results
+
 Add your results here if you like! If you've got multiple files,
 create a subdirectory.
 
-https://github.com/RustaceansUK/guessing_game_server
-https://github.com/RustaceansUK/guessing_game_client
+
+* Guessing game with inofficial networking challenge by Stanislav and
+  Tim: [server](https://github.com/RustaceansUK/guessing_game_server)
+  and
+  [client](https://github.com/RustaceansUK/guessing_game_client). They
+  used [ngrok](https://ngrok.com/) to make it possible for their
+  laptops to access each other's (since Skills Matter's network
+  doesn't allow that directly).
+
