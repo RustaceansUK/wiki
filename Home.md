@@ -30,7 +30,7 @@ Join the discussion on the Rust London User Group [meetup event page](https://ww
 
 ## Activities
 
-We plan to do the following in sub-groups working in parallel:
+We are doing the following in parallel sub-groups:
 
 * Get a minimal fluency in Rust, by working through [the Rust
   book](http://doc.rust-lang.org/book/) (online). Christian will try
@@ -65,13 +65,14 @@ We plan to do the following in sub-groups working in parallel:
   an interesting project feel free to add it there even if you don't
   intend to work on it yourself during the evenings.
 
-* Code Dojo (which means, decide at the start of the evening what to
-  figure out or write, elect someone to type at a common screen,
-  everybody pitches in with steps helping to solve it): not currently
-  active, but perhaps as a continuation after we're done with the
-  book? (We might be holding these at the Rust user group meetings in
-  the classroom instead, though.)
-
+<small>
+A further idea is Code Dojo (which means, decide at the start of the
+evening what to figure out or write, elect someone to type at a common
+screen, everybody pitches in with steps helping to solve it): not
+currently active, but perhaps as a continuation after we're done with
+the book. We may be holding these at the regular Rust user group
+meetings in the classroom instead, though.
+</small>
 
 At each event we'll first (at 7:00 PM) give a quick overview on what's
 going on so that new attendants can decide which sub-group to
