@@ -62,7 +62,7 @@ We are doing the following in parallel sub-groups:
   Do you have a project in C/C++ that you're pondering to rewrite in Rust?
 
   Also check [project ideas](Project_ideas.md). If you stumble on
-  an interesting project feel free to add it there even if you don't
+  an interesting project please add it there even if you don't
   intend to work on it yourself during the evenings.
 
 <small>
