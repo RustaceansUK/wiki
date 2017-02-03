@@ -22,7 +22,21 @@ Join the discussion on the Rust London User Group [meetup event page](https://ww
 *(by Christian)*
 
 We've had 62 final RSVPs on meetup.com (after reaching up to 76(?) of
-the 80 places), about 30(?, didn't count them at the end, mostly
-overlapping) registrations on Skills Matter, and 42 actual attendants
-on the evening.
+the 80 places), 35 registrations on Skills Matter (of which 12 don't
+have usernames resembling users on meetup.com, thus max 12 additional
+registrations (although guests on meetup.com count as RSVPs there but
+aren't listed, and for one registration the corresponding RSVP was
+cancelled)), and 42 actual attendants on the evening.
+
+I arrived late at 6:36 (sorry again about that, preparations had taken
+a lot of time in the 2 weeks prior, and I was scrambling to get the
+last steps done before arriving). Skills Matter gave us a different
+room than planned, probably because they had only 35 registrations
+(versus the 60+ RSVPs on meetup.com that I told them about when asking
+for the room), most attendants had already arrived. Originally we were
+allocated the tables in the hall and socializing there would have been
+very natural, I hadn't thought about how this would change when we
+were given a room instead. Seems you all weren't all too bored though,
+while I was hooking up a Raspberry Pi since there were only digital
+connectors for the presentation and my Laptop has only VGA.
 
