@@ -99,3 +99,5 @@ properly formatted versions of these documents.
 
 * [Ask HN: How do I understand Rust?](https://news.ycombinator.com/item?id=13503088) (*"I keep end up fighting the compiler with borrowing errors. ... It seems like everything I know about structuring a program goes out the window when borrowing comes into the picture."*, *"Try to avoid structured programming and mutable state where possible. Apply functional programming idioms and use immutable data structures if you can."*, *"Do you understand how to write code in, say, C?"*, *"To set expectations, I tell everyone that I've encouraged to try Rust that they will hit this same problem, then hate themselves and want to give up on computers and live in a cave."*)
 
+* [LLVM AVR backend: Safer microcontrollers almost here](http://dylanmckay.io/blog/rust/avr/llvm/2017/02/09/safer-microcontrollers-almost-here.html) ([HN](https://news.ycombinator.com/item?id=13620790))
+
