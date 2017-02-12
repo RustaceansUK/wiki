@@ -101,3 +101,8 @@ properly formatted versions of these documents.
 
 * [LLVM AVR backend: Safer microcontrollers almost here](http://dylanmckay.io/blog/rust/avr/llvm/2017/02/09/safer-microcontrollers-almost-here.html) ([HN](https://news.ycombinator.com/item?id=13620790))
 
+* [RustGPU](https://github.com/eholk/RustGPU), by Eric Holk who also created 
+  [Harlan](https://github.com/eholk/harlan).
+  [Compiling Rust for GPUs (Eric Holk, 2012)](http://blog.theincredibleholk.org/blog/2012/12/05/compiling-rust-for-gpus/) ([HN](https://news.ycombinator.com/item?id=6933912)).
+
+
