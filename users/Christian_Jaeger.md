@@ -105,4 +105,5 @@ properly formatted versions of these documents.
   [Harlan](https://github.com/eholk/harlan).
   [Compiling Rust for GPUs (Eric Holk, 2012)](http://blog.theincredibleholk.org/blog/2012/12/05/compiling-rust-for-gpus/) ([HN](https://news.ycombinator.com/item?id=6933912)).
 
+* [Pathfinder, a Fast GPU-based Font Rasterizer in Rust](http://pcwalton.github.io/blog/2017/02/14/pathfinder/) ([HN](https://news.ycombinator.com/item?id=13647146))
 
