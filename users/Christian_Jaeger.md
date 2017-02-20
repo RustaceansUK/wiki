@@ -107,3 +107,5 @@ properly formatted versions of these documents.
 
 * [Pathfinder, a Fast GPU-based Font Rasterizer in Rust](http://pcwalton.github.io/blog/2017/02/14/pathfinder/) ([HN](https://news.ycombinator.com/item?id=13647146))
 
+* [How copying an int made my code 11 times faster](https://medium.com/@robertgrosse/how-copying-an-int-made-my-code-11-times-faster-f76c66312e0f#.bg7ino1f9) <small>*"while Rust knows that the borrow is immutable, this information is sadly not passed to LLVM. This means that the LLVM optimizer sees that a pointer to size is being passed to some function and just gives up, leaving the following code to assume that size holds an arbitrary value"*</small> ([HN](https://news.ycombinator.com/item?id=13682929))
+
