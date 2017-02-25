@@ -109,3 +109,7 @@ properly formatted versions of these documents.
 
 * [How copying an int made my code 11 times faster](https://medium.com/@robertgrosse/how-copying-an-int-made-my-code-11-times-faster-f76c66312e0f#.bg7ino1f9) <small>*"while Rust knows that the borrow is immutable, this information is sadly not passed to LLVM. This means that the LLVM optimizer sees that a pointer to size is being passed to some function and just gives up, leaving the following code to assume that size holds an arbitrary value"*</small> ([HN](https://news.ycombinator.com/item?id=13682929))
 
+* [One Year With Rust -- I wrote a full featured application in rust, and so can you!](http://vitiral.github.io/2017/02/25/one-year-with-rust.html) <small>*"I found the borrow checker surprisingly easy to learn (much easier to learn that trying to do an equivalent thing in C), and although passing around lifetimes threw me for a loop for a long time (I was missing that <'a, 'b: 'a> means that 'b outlives 'a) progress was good."*</small> ([HN](https://news.ycombinator.com/item?id=13732706))
+
+    * [artifact](https://github.com/vitiral/artifact)
+
