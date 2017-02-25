@@ -91,6 +91,7 @@ properly formatted versions of these documents.
 * ([Rust and the Future of Systems Programming [video] (mozilla.org)](https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/) ([HN](https://news.ycombinator.com/item?id=12969014)) -- uh, promotion video)
 
 * [Rocket: Web Framework for Rust](https://rocket.rs/) ([HN](https://news.ycombinator.com/item?id=13245475))
+
     * [Rocket, Rust Web Framework, v0.2: Managed State and More](https://rocket.rs/news/2017-02-06-version-0.2/) ([HN](https://news.ycombinator.com/item?id=13581420))
 
 * [Rust by Example](http://rustbyexample.com/index.html) ([HN](https://news.ycombinator.com/item?id=13402770))
