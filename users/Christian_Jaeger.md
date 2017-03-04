@@ -114,3 +114,5 @@ properly formatted versions of these documents.
 
     * [artifact](https://github.com/vitiral/artifact)
 
+* ([Rust's language ergonomics initiative](https://blog.rust-lang.org/2017/03/02/lang-ergonomics.html) ([HN](https://news.ycombinator.com/item?id=13785277)))
+
