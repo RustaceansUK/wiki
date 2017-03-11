@@ -116,3 +116,5 @@ properly formatted versions of these documents.
 
 * ([Rust's language ergonomics initiative](https://blog.rust-lang.org/2017/03/02/lang-ergonomics.html) ([HN](https://news.ycombinator.com/item?id=13785277)))
 
+* [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/) ([HN](https://news.ycombinator.com/item?id=13843288))
+
