@@ -118,3 +118,5 @@ properly formatted versions of these documents.
 
 * [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/) ([HN](https://news.ycombinator.com/item?id=13843288))
 
+* [Writing a Raytracer in Rust – Part 1](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/) ([HN](https://news.ycombinator.com/item?id=13992858))
+
