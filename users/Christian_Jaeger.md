@@ -35,6 +35,8 @@ properly formatted versions of these documents.
 
 * [FreeRTOS meets Rust](http://www.hashmismatch.net/freertos-meets-rust/) ([HN](https://news.ycombinator.com/item?id=12592161))
 
+* [Copper: Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper) ([HN](https://news.ycombinator.com/item?id=14071282))
+
 
 ### Other people's projects
 
@@ -119,4 +121,6 @@ properly formatted versions of these documents.
 * [Rust's Type System is Turing-Complete](https://sdleffler.github.io/RustTypeSystemTuringComplete/) ([HN](https://news.ycombinator.com/item?id=13843288))
 
 * [Writing a Raytracer in Rust – Part 1](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/) ([HN](https://news.ycombinator.com/item?id=13992858))
+
+* [Fuzzing is magic - Or how I found a panic in Rust's regex library](https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/) ([HN](https://news.ycombinator.com/item?id=14013444))
 
