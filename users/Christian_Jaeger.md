@@ -124,3 +124,5 @@ properly formatted versions of these documents.
 
 * [Fuzzing is magic - Or how I found a panic in Rust's regex library](https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/) ([HN](https://news.ycombinator.com/item?id=14013444))
 
+* [Rust Language Server Now Available with Rustup](http://www.jonathanturner.org/2017/04/rls-now-in-nightly.md.html) ([HN](https://news.ycombinator.com/item?id=14136566))
+
