@@ -37,6 +37,8 @@ properly formatted versions of these documents.
 
 * [Copper: Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper) ([HN](https://news.ycombinator.com/item?id=14071282))
 
+* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) ([HN](https://news.ycombinator.com/item?id=14225614))
+
 
 ### Other people's projects
 
