@@ -126,3 +126,5 @@ properly formatted versions of these documents.
 
 * [Rust Language Server Now Available with Rustup](http://www.jonathanturner.org/2017/04/rls-now-in-nightly.md.html) ([HN](https://news.ycombinator.com/item?id=14136566))
 
+* [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=14225292))
+
