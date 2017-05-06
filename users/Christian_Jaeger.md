@@ -130,3 +130,10 @@ properly formatted versions of these documents.
 
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=14225292))
 
+* [The Rust Libz Blitz](https://blog.rust-lang.org/2017/05/05/libz-blitz.html) (libs, not libz) ([HN](https://news.ycombinator.com/item?id=14275512))
+
+    * Collectively review a few crates at a time in a shared forum
+    * Every two weeks, hold a library team meeting
+    * feedback onto a tracking issue for the crate
+    * Write up entries for each crate in a new Rust Cookbook
+
