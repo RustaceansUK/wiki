@@ -102,6 +102,8 @@ properly formatted versions of these documents.
 
 * [Short intro to C++ for Rust developers: Ownership and Borrowing](http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html) ([HN](https://news.ycombinator.com/item?id=13456852))
 
+* [Emulating the Rust borrow checker with C++ move-only types (nibblestew.blogspot.com)](http://nibblestew.blogspot.co.uk/2017/05/emulating-rust-borrow-checker-with-c.html) ([HN](https://news.ycombinator.com/item?id=14332606); *"unique_ptr requires an allocation whereas this does not, but it is using the same language features as unique_ptr."*)
+
 * [Ask HN: How do I understand Rust?](https://news.ycombinator.com/item?id=13503088) (*"I keep end up fighting the compiler with borrowing errors. ... It seems like everything I know about structuring a program goes out the window when borrowing comes into the picture."*, *"Try to avoid structured programming and mutable state where possible. Apply functional programming idioms and use immutable data structures if you can."*, *"Do you understand how to write code in, say, C?"*, *"To set expectations, I tell everyone that I've encouraged to try Rust that they will hit this same problem, then hate themselves and want to give up on computers and live in a cave."*)
 
 * [LLVM AVR backend: Safer microcontrollers almost here](http://dylanmckay.io/blog/rust/avr/llvm/2017/02/09/safer-microcontrollers-almost-here.html) ([HN](https://news.ycombinator.com/item?id=13620790))
