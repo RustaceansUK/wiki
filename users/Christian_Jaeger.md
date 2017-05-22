@@ -39,6 +39,8 @@ properly formatted versions of these documents.
 
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) ([HN](https://news.ycombinator.com/item?id=14225614))
 
+* [zinc: The bare metal stack for rust](https://github.com/hackndev/zinc)
+
 
 ### Other people's projects
 
