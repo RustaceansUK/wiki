@@ -12,6 +12,7 @@ properly formatted versions of these documents.
 
 * DHCP daemon
 * OpenVPN replacement
+* set mtime of files in working directory to last modification in Git history
 
 ## My link collection
 
