@@ -19,3 +19,5 @@ team members or a leader or contact person.
 
     * vector image library (for icons etc.) (was [IFF](https://en.wikipedia.org/wiki/Interchange_File_Format) the suggestion for this?)
 
+* in teams or alone?: hackerrank.com
+
