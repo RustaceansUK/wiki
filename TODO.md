@@ -9,6 +9,7 @@ properly formatted versions of these documents.
 
     * Christian: make the page index (at the top of the pages) hierarchical (I've code an implementation of this already, just need to update the code and check that nothing in the config breaks)
     * Christian: better handling of exceptions on faulty HTML markup in markdown pages
+    * Christian: redirect rustaceans.co.uk to rustaceans.uk
 
 * Mailing list
 
