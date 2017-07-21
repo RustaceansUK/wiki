@@ -19,3 +19,8 @@ properly formatted versions of these documents.
 
     * Christian: I was planning to do a query form, but didn't manage to get that done.
 
+* Design
+
+    * make better readable (less blocky?)
+    * add Rust logo somewhere?
+
