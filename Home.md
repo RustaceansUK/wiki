@@ -58,6 +58,16 @@ We are doing the following in parallel sub-groups:
   an interesting project please add it there even if you don't
   intend to work on it yourself during the evenings.
 
+* Help/tutoring idea: we can try to enable people with a question that
+  deserves answering by an (intermediate) expert, or discussion by the
+  group, to come forward and find such an expert or set up a
+  discussion. E.g. (fictional example) someone finds there are
+  mysteries around interactive debugging of Rust programs, come
+  forward ask whether anyone is around who feels up to answering the
+  questions or give a tutorial, if there is nobody, we could try to
+  find someone who researches the topic for another time and will then
+  present it.
+
 <small>
 A further idea is Code Dojo (which means, decide at the start of the
 evening what to figure out or write, elect someone to type at a common
