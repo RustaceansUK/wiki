@@ -25,25 +25,25 @@ store common materials/results. And we've got our very own IRC channel `#rustace
 
 We are doing the following in parallel sub-groups:
 
-* Get a minimal fluency in Rust, by working through [the Rust
-  book](http://doc.rust-lang.org/book/) (online). Christian will try
-  to make this a smooth experience, but keep in mind that this is not
-  a course, but a co-learning experience. We're in it together. We'll
-  build groups of ~3 people each to work through the material; if a
-  group is stuck, they'll ask the other groups or if unsuccessful see
-  whether they can get tips from Rustaceans working on projects.
+ *   Get a minimal fluency in Rust, by working through [the Rust
+     book](http://doc.rust-lang.org/book/) (online). Christian will try
+     to make this a smooth experience, but keep in mind that this is not
+     a course, but a co-learning experience. We're in it together. We'll
+     build groups of ~3 people each to work through the material; if a
+     group is stuck, they'll ask the other groups or if unsuccessful see
+     whether they can get tips from Rustaceans working on projects.
 
-  Other ideas:
+     Other ideas:
 
     * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
 
-* Working on projects: in pairs, teams, or alone; even if you're
-  working alone, you may find it beneficial to have other Rustaceans
-  around. We might also reserve time for asking questions to the
-  plenum.
+ *  Working on projects: in pairs, teams, or alone; even if you're
+    working alone, you may find it beneficial to have other Rustaceans
+    around. We might also reserve time for asking questions to the
+    plenum.
 
-  Active teams:
+    Active teams:
 
     * [libbluez.rs](http://github.com/khvzak/libbluez-rs) by member
       Aleksandr
@@ -52,21 +52,21 @@ We are doing the following in parallel sub-groups:
     * <!--XXX project name and URL?-->a [Redis](https://en.wikipedia.org/wiki/Redis) module
       wrapper for Redis modules in Rust (correct?) by member Anthony
 
-  Do you have a project in C/C++ that you're pondering to rewrite in Rust?
+    Do you have a project in C/C++ that you're pondering to rewrite in Rust?
 
-  Also check [project ideas](Project_ideas.md). If you stumble on
-  an interesting project please add it there even if you don't
-  intend to work on it yourself during the evenings.
+    Also check [project ideas](Project_ideas.md). If you stumble on
+    an interesting project please add it there even if you don't
+    intend to work on it yourself during the evenings.
 
-* Help/tutoring idea: we can try to enable people with a question that
-  deserves answering by an (intermediate) expert, or discussion by the
-  group, to come forward and find such an expert or set up a
-  discussion. E.g. (fictional example) someone finds there are
-  mysteries around interactive debugging of Rust programs, come
-  forward ask whether anyone is around who feels up to answering the
-  questions or give a tutorial, if there is nobody, we could try to
-  find someone who researches the topic for another time and will then
-  present it.
+ *  Help/tutoring idea: we can try to enable people with a question that
+    deserves answering by an (intermediate) expert, or discussion by the
+    group, to come forward and find such an expert or set up a
+    discussion. E.g. (fictional example) someone finds there are
+    mysteries around interactive debugging of Rust programs, come
+    forward ask whether anyone is around who feels up to answering the
+    questions or give a tutorial, if there is nobody, we could try to
+    find someone who researches the topic for another time and will then
+    present it.
 
 <small>
 A further idea is Code Dojo (which means, decide at the start of the
