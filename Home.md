@@ -58,26 +58,29 @@ We are doing the following in parallel sub-groups:
     an interesting project please add it there even if you don't
     intend to work on it yourself during the evenings.
 
- *  Help/tutoring idea: we can try to enable people with a question that
-    deserves answering by an (intermediate) expert, or discussion by the
-    group, to come forward and find such an expert or set up a
-    discussion. E.g. (fictional example) someone finds there are
-    mysteries around interactive debugging of Rust programs, come
-    forward ask whether anyone is around who feels up to answering the
-    questions or give a tutorial, if there is nobody, we could try to
-    find someone who researches the topic for another time and will then
-    present it.
-
-<small>
-A further idea is Code Dojo (which means, decide at the start of the
-evening what to figure out or write, elect someone to type at a common
-screen, everybody pitches in with steps helping to solve it): not
-currently active, but perhaps as a continuation after we're done with
-the book. We may be holding these at the regular Rust user group
-meetings in the classroom instead, though.
-</small>
-
 At each event we'll first (at 7:00 PM) give a quick overview on what's
 going on so that new attendants can decide which sub-group to
 join. Also, after the event we'll add a summary about the status of
 each sub-group to the wiki here.
+
+
+## Possible future activities
+
+Some ideas we might pick up if deemed useful:
+
+  * Help/tutoring: we can try to enable people with a question that
+    deserves answering by an (intermediate) expert, or discussion by
+    the group, to come forward and find such an expert or set up a
+    discussion. E.g. (fictional example) someone finds there are
+    mysteries around interactive debugging of Rust programs, come
+    forward ask whether anyone is around who feels up to answering the
+    questions or give a tutorial, if there is nobody, we could try to
+    find someone who researches the topic for another time and will
+    then present it.
+
+  * Code Dojo (which means, decide at the start of the evening what to
+    figure out or write, elect someone to type at a common screen,
+    everybody pitches in with steps helping to solve it). We could do
+    these at some regular Rust user group meetings in the classroom
+    instead, though.
+
