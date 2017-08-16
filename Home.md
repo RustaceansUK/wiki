@@ -27,7 +27,7 @@ If you have already decided upon a project that you're going to work on, send [C
 
 We are doing the following in parallel sub-groups:
 
- *   Get a minimal fluency in Rust, by working through [the Rust
+   * Get a minimal fluency in Rust, by working through [the Rust
      book](http://doc.rust-lang.org/book/) (online). Christian will try
      to make this a smooth experience, but keep in mind that this is not
      a course, but a co-learning experience. We're in it together. We'll
@@ -40,21 +40,13 @@ We are doing the following in parallel sub-groups:
     * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
 
- *  Working on projects: in pairs, teams, or alone; even if you're
+  * Working on projects: in pairs, teams, or alone; even if you're
     working alone, you may find it beneficial to have other Rustaceans
-    around. We might also reserve time for asking questions to the
-    plenum.
+    around. You can also ask questions on the IRC channel, or ask us
+    to ask the question to the plenum.
 
-    Active teams:
-
-    * [libbluez.rs](http://github.com/khvzak/libbluez-rs) by member
-      Aleksandr
-    * a web-crawler (crawler.rs?) <!--(url XXX)--> (experimental) by member Alex
-    * orientdb by member ...<!--XXX-->
-    * <!--XXX project name and URL?-->a [Redis](https://en.wikipedia.org/wiki/Redis) module
-      wrapper for Redis modules in Rust (correct?) by member Anthony
-
-    Do you have a project in C/C++ that you're pondering to rewrite in Rust?
+    See the list of [Projects](Projects.md). Add your project to it
+    (send email).
 
     Also check [project ideas](Project_ideas.md). If you stumble on
     an interesting project please add it there even if you don't
