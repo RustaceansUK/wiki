@@ -17,7 +17,7 @@ store common materials/results. And we've got our very own IRC channel `#rustace
 
 ## Our next meeting
 
-**Thursday, August 31, 2017**, 6:30 PM to 8:30 PM at Code Node (Skills Matter). Please register with Skills matter [here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). (This event is also on [Meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/).)
+**Thursday, August 31, 2017**, 6:30 PM to 8:30 PM at Code Node (Skills Matter) (in Alt/Tab?). Please register with Skills matter [here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). (This event is also on [Meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/).)
 
 [Past events](past_events/index.md)
 
