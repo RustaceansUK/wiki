@@ -5,8 +5,8 @@ properly formatted versions of these documents.
 
 # Questions
 
-These are questions for a potential survey, or just for you to answer by telling Christian or Mark :)
+These are questions for a potential survey, or just for you to answer by telling [Christian](mailto:chrjae@gmail.com) or Mark.
 
 * which day of week works best for you, generally?
 
-* is 6:30 too early to start, or 9:00 too late to finish for you?
+* are the start and end times (6:30, 9:00) good for you?
