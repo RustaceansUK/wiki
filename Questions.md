@@ -9,4 +9,4 @@ These are questions for a potential survey, or just for you to answer by telling
 
 * which day of week works best for you, generally?
 
-* is 6:30 to start too early, or 9:00 to finish too late for you?
+* is 6:30 too early to start, or 9:00 too late to finish for you?
