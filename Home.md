@@ -30,14 +30,14 @@ If you have already decided upon a project that you're going to work on, send [C
 We are doing the following in parallel sub-groups:
 
 * Get a minimal fluency in Rust, by working through [the Rust
-     book](http://doc.rust-lang.org/book/) (online). Christian will try
-     to make this a smooth experience, but keep in mind that this is not
-     a course, but a co-learning experience. We're in it together. We'll
-     build groups of ~3 people each to work through the material; if a
-     group is stuck, they'll ask the other groups or if unsuccessful see
-     whether they can get tips from Rustaceans working on projects.
+    book](http://doc.rust-lang.org/book/) (online). Christian will try
+    to make this a smooth experience, but keep in mind that this is not
+    a course, but a co-learning experience. We're in it together. We'll
+    build groups of ~3 people each to work through the material; if a
+    group is stuck, they'll ask the other groups or if unsuccessful see
+    whether they can get tips from Rustaceans working on projects.
 
-     Other ideas:
+    Other ideas:
 
     * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
