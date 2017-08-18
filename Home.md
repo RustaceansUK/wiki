@@ -42,6 +42,7 @@ We are doing the following in parallel sub-groups:
     * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
     * [exercism.io](http://exercism.io/)
+    * [hackerrank.com](https://www.hackerrank.com/)
 
 * Working on projects: in pairs, teams, or alone; even if you're
     working alone, you may find it beneficial to have other Rustaceans
