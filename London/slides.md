@@ -3,4 +3,4 @@ properly formatted versions of these documents.
 
 ---
 
-* [Rust learning and hacking evening #1](http://rustaceans.uk/slides/evening-1/)
+* [Rust learning and hacking evening #1](http://rustaceans.uk/London/slides/evening-1/)
