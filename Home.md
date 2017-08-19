@@ -3,54 +3,80 @@ properly formatted versions of these documents.
 
 ---
 
-# Rust learning and hacking group
+# Rust learning and hacking groups
 
-We are a bunch of hackers in [the UK (London)](Location.md) learning and
-improving in the use of the [Rust programming
-language](https://www.rust-lang.org/).
-We meet up once a month at CodeNode of Skills Matter (usually last
-Monday in the month?, usually from 6:30 PM) to learn and to work on
-projects. 
+We are a number of groups of hackers in the UK and abroad learning and
+improving in the use of the
+[Rust programming language](https://www.rust-lang.org/).
 
 We've got [a Github organization](Github.md) where we can store common
 materials/results, and the IRC channel `#rustaceans.uk` on
 [irc.mozilla.org](https://wiki.mozilla.org/IRC)
 
+We're currently 3 groups, which have their own area on this website:
+
+* [London](London/index.md)
+* Cambridge
+* Rome
+
+<!-- ^- add link to your subdirectory once ready -->
+
 
 ## Our next meeting
 
-**Thursday, August 31, 2017**, 6:30 to 9:00 PM at Code Node (Skills Matter) (in Alt/Tab?). Please register with Skills matter [here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). (This event is also on [Meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/).)
+On **Thursday, August 31, 2017**, the London, Cambridge and Rome
+groups will all hold learning and hacking events all around the same
+time. We will try to get in contact via video conferencing (using
+Google Hangouts) around the beginning of the event to say hi and maybe
+say a few words about what we're doing, and then again towards the end
+of the event to wrap up and tell about any special occurrences. During
+the evening we all use the IRC channel (see above) for asking or
+leaving random thoughts about the whole setting.
 
-If you have already decided upon a project that you're going to work on, send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Christian will add it to the [project list](Projects.md), so that interested collaborators can inform themselves in advance, and go through the list at the start of the event asking where you are, so that it is easy for them to find you.
+* The London event is happening 6:30 to 9:00 PM at Code Node (Skills
+Matter) (in Alt/Tab?). Please register with Skills matter
+[here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). This
+[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). See
+our [project list](London/Projects.md) (get your project onto it!).
 
-([Past events](past_events/index.md))
+
+<!--
+
+The Cambridge event: XXX
+
+The Rome event: XXX
+
+-->
+
+
 
 ## Activities
 
 We are doing the following in parallel sub-groups:
 
-* Get a minimal fluency in Rust, by working through [the Rust
-    book](http://doc.rust-lang.org/book/) (online). Christian will try
-    to make this a smooth experience, but keep in mind that this is not
-    a course, but a co-learning experience. We're in it together. We'll
-    build groups of ~3 people each to work through the material; if a
-    group is stuck, they'll ask the other groups or if unsuccessful see
-    whether they can get tips from Rustaceans working on projects.
-
-    Other ideas:
+* Get a minimal fluency in Rust, by working through
+    [the Rust book](http://doc.rust-lang.org/book/) (online), or other
+    ideas:
 
     * [rustlings (learning Rust through snippets)](https://github.com/carols10cents/rustlings)
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
     * [exercism.io](http://exercism.io/)
     * [hackerrank.com](https://www.hackerrank.com/)
 
+    Keep in mind that this is not a course, but a co-learning
+    experience. You'll group up with other people (about 2-5 each) to
+    work through the material; if your group is stuck, ask the other
+    groups or see whether you can get tips from Rustaceans working on
+    projects, or via the IRC channel, or ask the organizers for help.
+
 * Working on projects: in pairs, teams, or alone; even if you're
     working alone, you may find it beneficial to have other Rustaceans
     around. You can also ask questions on the IRC channel, or ask us
     to ask the question to the plenum.
 
-    See the list of [Projects](Projects.md). Add your project to it
-    (send email).
+    See the list of projects:
+    
+    * [London](London/Projects.md)
 
     Also check [project ideas](Project_ideas.md). If you stumble on
     an interesting project please add it there even if you don't

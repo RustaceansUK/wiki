@@ -3,17 +3,17 @@ properly formatted versions of these documents.
 
 ---
 
-# Projects
+# Projects of the London group
 
 ## Planned on the next meetup
 
-*Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Christian will add it to the [project list](Projects.md), so that interested collaborators can inform themselves in advance, and go through the list at the start of the event asking where you are, so that it is easy for them to find you.*
+*Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Christian will add it here, so that interested collaborators can inform themselves in advance, and will go through the list at the start of the event asking where you are, so that it is easy for them to find you. (Alternatively add it yourself, see [Github](../Github.md).)*
 
 * [Rosario](https://github.com/veganpower): make a Vulcan wrapper that uses Rust's features to guarantee correctness.
 
 ...
 
-*See [Project ideas](Project_ideas.md) for more ideas which may not have any takers yet.*
+*See [Project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
 
 ## Previous projects
 
