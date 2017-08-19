@@ -25,7 +25,7 @@ We're currently 3 groups, which have their own area on this website:
 ## Our next meeting
 
 On **Thursday, August 31, 2017**, the London, Cambridge and Rome
-groups will all hold learning and hacking events all around the same
+groups will all hold learning and hacking events around the same
 time. We will try to get in contact via video conferencing (using
 Google Hangouts) around the beginning of the event to say hi and maybe
 say a few words about what we're doing, and then again towards the end
