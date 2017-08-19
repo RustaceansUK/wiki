@@ -33,8 +33,8 @@ of the event to wrap up and tell about any special occurrences. During
 the evening we all use the IRC channel (see above) for asking or
 leaving random thoughts about the whole setting.
 
-* The London event is happening 6:30 to 9:00 PM at Code Node (Skills
-Matter) (in Alt/Tab?). Please register with Skills matter
+* The London event is happening 6:30 to 9:00 PM (London time) at Code
+Node (Skills Matter) (in Alt/Tab?). Please register with Skills matter
 [here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). This
 [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). See
 our [project list](London/Projects.md) (get your project onto it!).
@@ -82,10 +82,10 @@ We are doing the following in parallel sub-groups:
     an interesting project please add it there even if you don't
     intend to work on it yourself during the evenings.
 
-At each event we'll first (at 7:00 PM) give a quick overview on what's
-going on so that new attendants can decide which sub-group to
-join. Also, after the event we'll add a summary about the status of
-each sub-group to the wiki here.
+At each event we'll first give a quick overview on what's going on so
+that new attendants can decide which sub-group to join. Also, after
+the event we'll add a summary about the status of each sub-group to
+the wiki here.
 
 
 ## Possible future activities
