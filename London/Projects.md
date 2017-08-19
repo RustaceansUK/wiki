@@ -11,7 +11,9 @@ properly formatted versions of these documents.
 
 * [Rosario](https://github.com/veganpower): make a Vulcan wrapper that uses Rust's features to guarantee correctness.
 
-...
+* [Karl Hobley](https://github.com/kaedroho): work on [RocksDB](https://en.wikipedia.org/wiki/RocksDB) [bindings](https://github.com/spacejam/rust-rocksdb), [Lyon](https://github.com/nical/lyon) or [ggez](https://github.com/ggez/ggez).
+
+...(your entry here)
 
 *See [Project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
 
