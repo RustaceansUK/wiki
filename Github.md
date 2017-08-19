@@ -31,3 +31,6 @@ You can also create new pages, they will automatically appear in the
 navigation bar shown on the website (in a pretty random position,
 though, ask [Christian](mailto:chrjae@gmail.com) to nail down the
 position in the configuration).
+
+You can `git clone https://github.com/RustaceansUK/wiki/` then work on
+it locally before pushing your changes back.
