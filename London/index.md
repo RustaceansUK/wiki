@@ -10,7 +10,7 @@ Monday in the month?, usually from 6:30 PM) to learn and to work on
 projects.
 
 Our next meeting will be at the same time as Cambridge and Rome
-events, see [Home](../).
+events, see [Home](http://rustaceans.uk/).
 
 * See our [project list](Projects.md)--get your project onto the list!
 
