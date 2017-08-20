@@ -17,5 +17,5 @@ team members or a leader or contact person.
 * work on parts of [Redox OS](http://www.redox-os.org/)
   ([HN](https://news.ycombinator.com/item?id=10295187))
 
-    * vector image library (for icons etc.) (was [IFF](https://en.wikipedia.org/wiki/Interchange_File_Format) the suggestion for this?)
+    * vector image library (for icons etc.) (was [IFF](https://en.wikipedia.org/wiki/Interchange_File_Format) the suggestion for this? Probably The Haiku Vector Icon format, [HVIF](https://en.wikipedia.org/wiki/Haiku_Vector_Icon_Format))
 
