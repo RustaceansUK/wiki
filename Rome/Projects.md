@@ -3,7 +3,7 @@ properly formatted versions of these documents.
 
 ---
 
-# Projects of the London group
+# Projects of the Rome group
 
 ## Planned on the next meetup
 
