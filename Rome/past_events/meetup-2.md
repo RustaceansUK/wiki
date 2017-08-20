@@ -14,6 +14,6 @@ Verranno presentati due talk. Il primo sarà introduttivo sul linguaggio di prog
 
 Agenda
 
-19:00 - Benvenuti
-19:15 - Introduzione a Rust (Claudio Capobianco).
-19:45 - Sviluppo Web con Rocket  (Enrico Risa). 
+- 19:00 - Benvenuti
+- 19:15 - Introduzione a Rust (Claudio Capobianco).
+- 19:45 - Sviluppo Web con Rocket  (Enrico Risa). 

@@ -15,9 +15,9 @@ Il primo meetup sarà incentrato sull'introduzione al linguaggio di programmazio
 
 Agenda
 
-16:30 Benvenuti & Presentazione del Meetup
-17:00 Introduzione a Rust
-18:00 Hands-on session
+- 16:30 Benvenuti & Presentazione del Meetup
+- 17:00 Introduzione a Rust
+- 18:00 Hands-on session
 
 ## Wrap-up
 
