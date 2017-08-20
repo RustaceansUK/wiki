@@ -39,7 +39,7 @@ Node** (Skills Matter) (in Alt/Tab?). Please register with Skills matter
 [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). See
 our [project list](London/Projects.md) (get your project onto it!).
 
-* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab** (to be confirmes).
+* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab** (to be confirmed).
 Events registration will open soon. See
 our [project list](Rome/Projects.md) (get your project onto it!).
 
