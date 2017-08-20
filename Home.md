@@ -17,7 +17,7 @@ We're currently 3 groups, which have their own area on this website:
 
 * [London](London/index.md)
 * Cambridge
-* Rome
+* [Rome](Rome/index.md)
 
 <!-- ^- add link to your subdirectory once ready -->
 
@@ -75,7 +75,7 @@ We are doing the following in parallel sub-groups:
     to ask the question to the plenum.
 
     See the list of projects:
-    
+
     * [London](London/Projects.md)
 
     Also check [project ideas](Project_ideas.md). If you stumble on
@@ -107,4 +107,3 @@ Some ideas we might pick up if deemed useful:
     everybody pitches in with steps helping to solve it). We could do
     these at some regular Rust user group meetings in the classroom
     instead, though.
-
