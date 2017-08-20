@@ -3,7 +3,7 @@ properly formatted versions of these documents.
 
 ---
 
-# Book group results
+# Results from the Rust Book learning group
 
 Add your results here if you like! If you've got multiple files,
 create a subdirectory.
