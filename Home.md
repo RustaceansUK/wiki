@@ -16,7 +16,7 @@ materials/results, and the IRC channel `#rustaceans.uk` on
 We're currently 3 groups, which have their own area on this website:
 
 * [London](London/index.md)
-* Cambridge
+* [Cambridge](Cambridge/index.md)
 * [Rome](Rome/index.md)
 
 <!-- ^- add link to your subdirectory once ready -->
@@ -41,13 +41,9 @@ our [project list](London/Projects.md) (get your project onto it!).
 
 * The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0** (to be confirmed). Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). See our [project list](Rome/Projects.md) (get your project onto it!).
 
-
-<!--
-
-The Cambridge event: XXX
-
--->
-
+* The Cambridge event is happening **6:30 to 9:00 PM (British time) at Cambridge Consultants**. Please
+[register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). See
+our [project list](Cambridge/Projects.md) (get your project onto it!).
 
 
 ## Activities
