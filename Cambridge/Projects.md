@@ -1,5 +1,6 @@
 Check our [website](http://rustaceans.uk/) for
 properly formatted versions of these documents.
+
 ---
 
 # Projects at the next Cambridge Rust meetup
