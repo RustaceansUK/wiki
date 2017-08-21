@@ -21,7 +21,7 @@ Join the discussion on the Rust London User Group [meetup event page](https://ww
 
 *(by Christian)*
 
-We've had 62 final RSVPs on meetup.com (after reaching up to 76(?) of
+We had 62 final RSVPs on meetup.com (after reaching up to 76(?) of
 the 80 places), 35 registrations on Skills Matter (of which 12 don't
 have usernames resembling users on meetup.com, thus max 12 additional
 registrations (although guests on meetup.com count as RSVPs there but
