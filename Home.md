@@ -76,9 +76,7 @@ We are doing the following in parallel sub-groups:
     around. You can also ask questions on the IRC channel, or ask us
     to ask the question to the plenum.
 
-    See the list of projects:
-
-    * [London](London/Projects.md)
+    See the lists of projects ([London](London/Projects.md), [Rome](Rome/Projects.md)).
 
     Also check [project ideas](Project_ideas.md). If you stumble on
     an interesting project please add it there even if you don't
