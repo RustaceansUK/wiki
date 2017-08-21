@@ -12,4 +12,4 @@ Our next meeting will be at the same time as Cambridge and Rome events, see [Hom
 
 * See our [project list](Projects.md)--get your project onto the list!
 
-* [Past events](past_events/index.md)
+* [Past events](PastEvents.md)
