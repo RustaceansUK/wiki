@@ -11,6 +11,12 @@ properly formatted versions of these documents.
 
 * [rust-android-tutorial](https://github.com/wbigger/rust-android-tutorial), a tutorial to use openGL in Android with Rust, by Claudio Capobianco - the compiled version of this tutorial is available [here](https://wbigger.github.io/rust-android-tutorial/). This work is based on [android-rs-glue](https://github.com/tomaka/android-rs-glue), by tomaka.
 
+* [web-playground](https://github.com/RustRome/web-playground)  Let's play with Rocket/ Gotham / Iron by Enrico Risa.
+
+* [songkick-api](https://github.com/RustRome/songkick-api) Switch this songkick client library to the latest version of hyper with async I/O, by Enrico Risa.
+
+* [orientdb-rs](https://github.com/RustRome/orientdb-rs) Create an OrientDB driver with Tokio, by Enrico Risa. 
+
 ...(your entry here)
 
 *See [Project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
