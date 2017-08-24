@@ -10,7 +10,7 @@ We meet usually the second (?) Wednesday of the month, at 7:00 PM.
 
 Our next meeting is a little exception, since
 it will be at the same time as Cambridge and Rome
-events, see [Home](http://rustaceans.uk/). The location of this event will be **[Fusolab](http://www.fusolab.net/) (to be confirmed!)**, (**not** LUISS EnLabs as usual!).
+events, see [Home](http://rustaceans.uk/). The location of this event will be **[Fusolab 2.0](http://www.fusolab.net/)**, (**not** LUISS EnLabs as usual!).
  Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/).
 
 * See our [project list](Projects.md)--get your project onto the list!
