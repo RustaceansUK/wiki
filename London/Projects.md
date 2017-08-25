@@ -15,7 +15,9 @@ properly formatted versions of these documents.
 
 ...(your entry here)
 
-*See [Project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
+*See [project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
+
+*Also note the [Rome](../Rome/Projects.md) and [Cambridge](../Cambridge/Projects.md) project pages.*
 
 ## Previous projects
 
