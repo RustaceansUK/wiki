@@ -9,7 +9,7 @@ properly formatted versions of these documents.
 
 *Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Christian will add it here, so that interested collaborators can inform themselves in advance, and will go through the list at the start of the event asking where you are, so that it is easy for them to find you. (Alternatively add it yourself, see [Github](../Github.md).)*
 
-* [Rosario](https://github.com/veganpower): make a [Vulkan](https://www.khronos.org/vulkan/) wrapper that uses Rust's features to guarantee correctness.
+* [Rosario](https://github.com/veganpower): make a [Vulkan](https://www.khronos.org/vulkan/) wrapper that uses Rust's features to guarantee correctness. (See [project page](projects/Vulkan_wrapper.md) on this wiki.)
 
 * [Karl Hobley](https://github.com/kaedroho): work on [RocksDB](https://en.wikipedia.org/wiki/RocksDB) [bindings](https://github.com/spacejam/rust-rocksdb), [Lyon](https://github.com/nical/lyon) or [ggez](https://github.com/ggez/ggez).
 
