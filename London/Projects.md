@@ -13,6 +13,8 @@ properly formatted versions of these documents.
 
 * [Karl Hobley](https://github.com/kaedroho): work on [RocksDB](https://en.wikipedia.org/wiki/RocksDB) [bindings](https://github.com/spacejam/rust-rocksdb), [Lyon](https://github.com/nical/lyon) or [ggez](https://github.com/ggez/ggez).
 
+* [Niels Egberts](https://github.com/nielsegberts/): [Rust-Monzo](https://github.com/nielsegberts/rust-monzo), a wrapper around the [Monzo bank API](https://duckduckgo.com/html/?q=Monzo%20api) (Monzo did announce that this version of the API is not going to get updates anymore (they'll make a new one next year), but in the meantime it will keep working for developers.)
+
 ...(your entry here)
 
 *See [project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
