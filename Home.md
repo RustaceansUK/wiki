@@ -58,6 +58,7 @@ We are doing the following in parallel sub-groups:
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
     * [exercism.io](http://exercism.io/)
     * [hackerrank.com](https://www.hackerrank.com/)
+    * [RustConf 2017 Tutorial Exercises](http://www.rust-tutorials.com/RustConf17/)
 
     Keep in mind that this is not a course, but a co-learning
     experience. You'll group up with other people (about 2-5 each) to
