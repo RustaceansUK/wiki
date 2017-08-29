@@ -15,6 +15,8 @@ properly formatted versions of these documents.
 
 * [Niels Egberts](https://github.com/nielsegberts/): [Rust-Monzo](https://github.com/nielsegberts/rust-monzo), a wrapper around the [Monzo bank API](https://duckduckgo.com/html/?q=Monzo%20api) (Monzo did announce that this version of the API is not going to get updates anymore (they'll make a new one next year), but in the meantime it will keep working for developers.)
 
+* [booyaa](https://github.com/booyaa/): will be triaging [RLS](https://github.com/rust-lang-nursery/rls) issues.
+
 * [Wojciech](https://www.meetup.com/Rust-London-User-Group/members/230502258/) is considering porting a window manager like dwm (or something else from [suckless.org](https://en.wikipedia.org/wiki/Suckless.org))
 
 ...(your entry here)
