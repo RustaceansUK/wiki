@@ -19,6 +19,8 @@ properly formatted versions of these documents.
 
 * [Wojciech](https://www.meetup.com/Rust-London-User-Group/members/230502258/) is considering porting a window manager like dwm (or something else from [suckless.org](https://en.wikipedia.org/wiki/Suckless.org))
 
+* [Michael Killough](https://github.com/mjkillough) will probably work on [Cnx](https://github.com/mjkillough/cnx), a simple bar for use with simple window managers, or some [Clippy](https://github.com/rust-lang-nursery/rust-clippy) issues, or perhaps polish [Lanta](https://github.com/mjkillough/lanta) into something others could use.
+
 ...(your entry here)
 
 *See [project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
