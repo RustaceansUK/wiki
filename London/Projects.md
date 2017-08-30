@@ -27,6 +27,13 @@ properly formatted versions of these documents.
 
 *Also note the [Rome](../Rome/Projects.md) and [Cambridge](../Cambridge/Projects.md) project pages.*
 
+### Mentors
+
+We're here for learning, and that means that we can get stuck. Help us get unstuck by mentoring! By volunteering as an official contact during the evening you can enjoy the feeling of helping others, test your knowledge (remember, you only understand something fully once you've been teaching it to others!), and get good karma! You can still work on your own things when there are no questions, and you don't need to do it again in the future. Just hang out in our IRC channel, and people with unsolved questions will ask them there. Add your IRC nickname to the list below so that questioners can "ping" you.
+
+* Alessandro
+
+
 ## Projects on previous meetups
 
 ### On the [first evening](past_events/evening-1.md)
