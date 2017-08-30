@@ -27,7 +27,7 @@ properly formatted versions of these documents.
 
 *Also note the [Rome](../Rome/Projects.md) and [Cambridge](../Cambridge/Projects.md) project pages.*
 
-## Previous projects
+## Projects on previous meetups
 
 ### On the [first evening](past_events/evening-1.md)
 
