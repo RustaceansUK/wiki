@@ -47,7 +47,7 @@ Node** (Skills Matter). Please register with Skills matter
 * The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0**. Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). 
 
     * [Project list](Rome/Projects.md) (get your project onto it!). 
-    * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (IRC: ?).
+    * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (`wolf4ood`).
 
 * The Cambridge event is happening **6:30 to 9:00 PM (British time) at Cambridge Consultants**. Please
 [register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). 
