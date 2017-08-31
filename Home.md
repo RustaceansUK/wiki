@@ -27,12 +27,14 @@ We're currently 3 groups, which have their own area on this website:
 On **Thursday, August 31, 2017**, the London, Cambridge and Rome
 groups will all hold learning and hacking events around the same
 time. We will try to get in contact via video conferencing (using
-Google Hangouts) around the beginning of the event to say hi and maybe
-say a few words about what we're doing, and then again towards the end
-of the event to wrap up and tell about any special occurrences. During
-the evening we all use the IRC channel `#rustaceans.uk` on
-[irc.mozilla.org](https://wiki.mozilla.org/IRC) for asking or
-leaving random thoughts about the whole setting.
+Google Hangouts) and inform each other on what we're doing.
+
+During the evening we will all use the IRC channel `#rustaceans.uk` on
+[irc.mozilla.org](https://wiki.mozilla.org/IRC). Join it to see what's
+going on, and if you've got questions or have ideas or random
+thoughts, don't hesitate to speak up there! You can also always ask us
+organizers locally, and there will be the possibility to ask questions
+or show things across all groups via the video conferencing.
 
 * The London event is happening **6:30 to 9:00 PM (British time) at Code
 Node** (Skills Matter). Please register with Skills matter
