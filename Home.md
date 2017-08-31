@@ -37,14 +37,23 @@ leaving random thoughts about the whole setting.
 * The London event is happening **6:30 to 9:00 PM (British time) at Code
 Node** (Skills Matter). Please register with Skills matter
 [here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). This
-[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). See
-our [project list](London/Projects.md) (get your project onto it!).
+[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). 
 
-* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0**. Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). See our [project list](Rome/Projects.md) (get your project onto it!).
+    * [Project list](London/Projects.md) (get your project onto it!). 
+    * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
+
+* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0**. Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). 
+
+    * [Project list](Rome/Projects.md) (get your project onto it!). 
+    * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (IRC: ?).
 
 * The Cambridge event is happening **6:30 to 9:00 PM (British time) at Cambridge Consultants**. Please
-[register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). See
-our [project list](Cambridge/Projects.md) (get your project onto it!).
+[register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). 
+
+    * [Project list](Cambridge/Projects.md) (get your project onto it!). 
+    * Organizer: [Jonathan](https://github.com/theJPster) (IRC: `theJPster`).
+
+* Maybe Alberto, who is one of several people starting up a Rust community in Edinburgh, will join us as well (he learned of the event just a few days ago so might not be able to make it).
 
 
 ## Activities
