@@ -30,7 +30,8 @@ time. We will try to get in contact via video conferencing (using
 Google Hangouts) around the beginning of the event to say hi and maybe
 say a few words about what we're doing, and then again towards the end
 of the event to wrap up and tell about any special occurrences. During
-the evening we all use the IRC channel (see above) for asking or
+the evening we all use the IRC channel `#rustaceans.uk` on
+[irc.mozilla.org](https://wiki.mozilla.org/IRC) for asking or
 leaving random thoughts about the whole setting.
 
 * The London event is happening **6:30 to 9:00 PM (British time) at Code
