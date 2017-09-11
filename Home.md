@@ -33,6 +33,12 @@ We're currently 3 groups, which have their own area on this website:
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
 
+
+* **Mon Oct 16**: Rust learning and hacking evening #4, London
+
+    (To be announced.)
+
+
 ## Activities
 
 We are doing the following in parallel sub-groups:
