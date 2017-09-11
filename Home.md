@@ -39,6 +39,9 @@ We're currently 3 groups, which have their own area on this website:
     (To be announced.)
 
 
+(For our past events, see [here](past_shared_events/index.md))
+
+
 ## Activities
 
 We are doing the following in parallel sub-groups:
