@@ -22,41 +22,16 @@ We're currently 3 groups, which have their own area on this website:
 <!-- ^- add link to your subdirectory once ready -->
 
 
-## Our next meeting
+## Our next events
 
-On **Thursday, August 31, 2017**, the London, Cambridge and Rome
-groups will all hold learning and hacking events around the same
-time. We will try to get in contact via video conferencing (using
-Google Hangouts) and inform each other on what we're doing.
+* **Mon Sep 18**: Rust learning and hacking evening #3, London
 
-During the evening we will all use the IRC channel `#rustaceans.uk` on
-[irc.mozilla.org](https://wiki.mozilla.org/IRC). Join it to see what's
-going on, and if you've got questions or have ideas or random
-thoughts, don't hesitate to speak up there! You can also always ask us
-organizers locally, and there will be the possibility to ask questions
-or show things across all groups via the video conferencing.
-
-* The London event is happening **6:30 to 9:00 PM (British time) at Code
-Node** (Skills Matter). Please register with Skills matter
-[here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). This
-[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). 
+    Please register with Skills matter
+    [here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
+    [event is also on meetup.com](). 
 
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
-
-* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0**. Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). 
-
-    * [Project list](Rome/Projects.md) (get your project onto it!). 
-    * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (IRC: `wolf4ood`).
-
-* The Cambridge event is happening **6:30 to 9:00 PM (British time) at Cambridge Consultants**. Please
-[register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). 
-
-    * [Project list](Cambridge/Projects.md) (get your project onto it!). 
-    * Organizer: [Jonathan](https://github.com/theJPster) (IRC: `theJPster`).
-
-* Maybe Alberto, who is one of several people starting up a Rust community in Edinburgh, will join us as well (he learned of the event just a few days ago so might not be able to make it).
-
 
 ## Activities
 
