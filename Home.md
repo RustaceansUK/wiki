@@ -28,7 +28,7 @@ We're currently 3 groups, which have their own area on this website:
 
     Please register with Skills matter
     [here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
-    [event is also on meetup.com](). 
+    [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/243263150/). 
 
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
