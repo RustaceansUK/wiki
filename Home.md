@@ -22,28 +22,24 @@ We're currently 3 groups, which have their own area on this website:
 <!-- ^- add link to your subdirectory once ready -->
 
 
-## Our next meeting
+## Our next events
 
-On **Thursday, August 31, 2017**, the London, Cambridge and Rome
-groups will all hold learning and hacking events around the same
-time. We will try to get in contact via video conferencing (using
-Google Hangouts) around the beginning of the event to say hi and maybe
-say a few words about what we're doing, and then again towards the end
-of the event to wrap up and tell about any special occurrences. During
-the evening we all use the IRC channel (see above) for asking or
-leaving random thoughts about the whole setting.
+* **Mon Sep 18**: Rust learning and hacking evening #3, London
 
-* The London event is happening **6:30 to 9:00 PM (British time) at Code
-Node** (Skills Matter) (in Alt/Tab?). Please register with Skills matter
-[here](https://skillsmatter.com/meetups/9882-rust-learning-and-hacking-evening-2). This
-[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/242378000/). See
-our [project list](London/Projects.md) (get your project onto it!).
+    Please register with Skills matter
+    [here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
+    [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/243263150/). 
 
-* The Rome event is happening **7:30 to 10:00 PM (Italian time) at Fusolab 2.0**. Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/). See our [project list](Rome/Projects.md) (get your project onto it!).
+    * [Project list](London/Projects.md) (get your project onto it!). 
+    * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
 
-* The Cambridge event is happening **6:30 to 9:00 PM (British time) at Cambridge Consultants**. Please
-[register for the event at meetup.com](https://www.meetup.com/Cambridge-Rust-Meetup/events/242409356/). See
-our [project list](Cambridge/Projects.md) (get your project onto it!).
+
+* **Mon Oct 16**: Rust learning and hacking evening #4, London
+
+    (To be announced.)
+
+
+(For our past events, see [here](past_shared_events/index.md))
 
 
 ## Activities
@@ -58,6 +54,7 @@ We are doing the following in parallel sub-groups:
     * go through the [Advent of Code](http://adventofcode.com/) and implement it in Rust
     * [exercism.io](http://exercism.io/)
     * [hackerrank.com](https://www.hackerrank.com/)
+    * [RustConf 2017 Tutorial Exercises](http://www.rust-tutorials.com/RustConf17/)
 
     Keep in mind that this is not a course, but a co-learning
     experience. You'll group up with other people (about 2-5 each) to
