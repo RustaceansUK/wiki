@@ -40,6 +40,8 @@ Node** (Skills Matter). Please register with Skills matter
 
 ## Wrap-up
 
+Also see Mark's [event report on users.rust-lang.org](https://users.rust-lang.org/t/london-rust-learning-and-hacking-evening-no-2/12419/4).
+
 ### Rome: "Rust Meetup learning & hacking 1"
 
 [See here](../Rome/past_events/meetup-lh-1.md).
