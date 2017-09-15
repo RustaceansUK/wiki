@@ -11,12 +11,6 @@ properly formatted versions of these documents.
 
 * keep working on [rust-mailer](https://github.com/RustRome/web-playground), driven by Enrico Risa together with other meetup member.
 
-* [web-playground](https://github.com/RustRome/web-playground)  Let's play with Rocket/ Gotham / Iron by Enrico Risa.
-
-* [songkick-api](https://github.com/RustRome/songkick-api) Switch this songkick client library to the latest version of hyper with async I/O, by Enrico Risa.
-
-* [orientdb-rs](https://github.com/RustRome/orientdb-rs) Create an OrientDB driver with Tokio, by Enrico Risa. 
-
 ...(your entry here)
 
 *See [Project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
