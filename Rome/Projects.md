@@ -9,7 +9,7 @@ properly formatted versions of these documents.
 
 *Send [Claudio](mailto:wbigger@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Claudio will add it here, so that interested collaborators can inform themselves in advance, and will go through the list at the start of the event asking where you are, so that it is easy for them to find you. (Alternatively add it yourself, see [Github](../Github.md).)*
 
-* [rust-android-tutorial](https://github.com/wbigger/rust-android-tutorial), a tutorial to use openGL in Android with Rust, by Claudio Capobianco - the compiled version of this tutorial is available [here](https://wbigger.github.io/rust-android-tutorial/). This work is based on [android-rs-glue](https://github.com/tomaka/android-rs-glue), by tomaka.
+* keep working on [rust-mailer](https://github.com/RustRome/web-playground), driven by Enrico Risa together with other meetup member.
 
 ...(your entry here)
 
@@ -17,7 +17,11 @@ properly formatted versions of these documents.
 
 ## Previous projects
 
-### On the [second evening](past_events/meetup-2.md)
+### On the [first learn & hack](past_events/meetup-lh-1.md)
+
+* [rust-mailer](https://github.com/RustRome/web-playground) by Enrico Risa
+
+### On the [second meetup](past_events/meetup-2.md)
 
 * [RustTv](https://github.com/wbigger/RustTv) by member Claudio Capobianco
 

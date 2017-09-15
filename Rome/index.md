@@ -5,13 +5,9 @@ properly formatted versions of these documents.
 
 # Rome group
 
-We meet up once a month at LUISS EnLabs, in the frame of Codemotion Aperitech.
-We meet usually the second (?) Wednesday of the month, at 7:00 PM.
+We meet up once a month at LUISS EnLabs (Stazione Termini, Rome), in the frame of Codemotion Aperitech, at 7:00 PM. As the name suggests, a light aperitif is offered by Codemotion ;)
 
-Our next meeting is a little exception, since
-it will be at the same time as Cambridge and Rome
-events, see [Home](http://rustaceans.uk/). The location of this event will be **[Fusolab 2.0](http://www.fusolab.net/)**, (**not** LUISS EnLabs as usual!).
- Please register [here](https://www.meetup.com/Rust-Roma/events/242709171/).
+Next meeting will be October 12 or October 16, to be confirmed.
 
 * See our [project list](Projects.md)--get your project onto the list!
 
