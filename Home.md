@@ -26,7 +26,7 @@ We're currently 3 groups, which have their own area on this website:
 
 * **Mon Sep 18**: Rust learning and hacking evening #3, London
 
-    Please register with Skills matter
+    Please register with our host Skills matter
     [here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
     [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/243263150/). 
 
