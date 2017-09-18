@@ -18,6 +18,8 @@ properly formatted versions of these documents.
 
 We're here for learning, and that means that we can get stuck. Help us get unstuck by mentoring! By volunteering as an official contact during the evening you can enjoy the feeling of helping others, test your knowledge (remember, you only understand something fully once you've been teaching it to others!), and get good karma! You can still work on your own things when there are no questions, and you don't need to do it again in the future. Just hang out in our IRC channel, and people with unsolved questions will ask them there. Add your IRC nickname to the list below so that questioners can "ping" you.
 
+* [Peter](https://github.com/pedrosland) is working on Rust bindings for the Raspberry Pi cam
+
 ...(your entry here)
 
 
