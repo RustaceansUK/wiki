@@ -36,9 +36,15 @@ properly formatted versions of these documents.
 
 * [FreeRTOS meets Rust](http://www.hashmismatch.net/freertos-meets-rust/) ([HN](https://news.ycombinator.com/item?id=12592161))
 
-* [Copper: Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper) ([HN](https://news.ycombinator.com/item?id=14071282))
+* Jorge Aparicio (Sweden):
 
-* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) ([HN](https://news.ycombinator.com/item?id=14225614))
+    * [Copper: Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper) ([HN](https://news.ycombinator.com/item?id=14071282))
+
+    * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) ([HN](https://news.ycombinator.com/item?id=14225614))
+
+    * [Discover the world of microcontrollers through Rust (japaric.github.io)](https://japaric.github.io/discovery/) ([HN](https://news.ycombinator.com/item?id=15270189))
+    
+        * *"This book is an "introductory course" on microcontroller-based "embedded systems" that uses Rust as the teaching language rather than the usual C/C++."*
 
 * [zinc: The bare metal stack for rust](https://github.com/hackndev/zinc)
 
