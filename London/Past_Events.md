@@ -34,7 +34,7 @@ Again everybody seems to have been happy, in spite of me not really knowing what
 
 ## Thursday August 31 2017: Rust learning and hacking evening #2
 
-This was an event shared with the groups in Cambridge and Rome, see [here](../../past_shared_events/shared-1.md).
+This was an event shared with the groups in Cambridge and Rome, see [here](../past_shared_events/shared-1.md).
 
 ## Monday January 30 2017: Rust learning and hacking evening #1
 
