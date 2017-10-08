@@ -7,6 +7,31 @@ Here are the past announcements of our events as well as minutes /
 wrap up texts.
 
 
+## Monday September 18: Rust learning and hacking evening #3
+
+### Announcement
+
+Please register with our host Skills Matter
+[here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
+[event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/243263150/).
+
+### Wrap-up
+
+*(by Christian)*
+
+We were allocated a room with tables in a class room configuration (everybody looking to the front), perhaps because I didn't specify our needs explicitly this time, so I asked whether this could be changed and Skills Matter gave us a meeting style room instead. This room was worryingly small though and in fact we used up every single chair (17 people). I'll make our needs clear in advance next time.
+
+Interestingly, on this evening we had many attendants who had not come before (not even a talk event), it was about half new people and half previous attendants.
+
+This time nobody submitted a new project, I guess I should stop trying to keep an always-up-to-date list, and instead just aim to maintain one single list regardless of whether project leaders come in for the next event or not. I'm also not sure how many projects had contributors so far, it seems people mostly work on their own but use the event to chat about what they are doing?
+
+I mostly let the event run by itself this time. Partially because of that, this was the first meeting where I really got around learning new stuff myself (other than just caring about the organization). I had a pretty great time.
+
+[Jasper](../users/Jasper_Wallace.md) confirmed with Skills Matter that it's OK to eat our own food, and ordered a couple pizzas and other food on his own initiative since nobody came forward and I didn't lead this properly. Thanks, Jasper! Sadly he ended up taking most food home with him. I think next time we should make a short list of suggestions for ordering including their price and ask for a show-hands for each of them before placing the order. Anyone else interested in handling this?
+
+Again everybody seems to have been happy, in spite of me not really knowing what I'm doing. But perhaps that's an illusion, please tell if anything didn't work as you had hoped!
+
+
 ## Thursday August 31 2017: Rust learning and hacking evening #2
 
 This was an event shared with the groups in Cambridge and Rome, see [here](../../past_shared_events/shared-1.md).
