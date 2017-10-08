@@ -24,8 +24,6 @@ We're currently 3 groups, which have their own area on this website:
 
 ## Our next events
 
-*For our past events, see [past shared events](past_shared_events/index.md) and the past events pages of the individual groups.*
-
 ### **Monday, October 16, 2017**: second shared hacking and learning event, in Rome and London
 
 Both the Rome and London Rust user groups will have hack-and-learn events at the same time. We will again use video conferencing to say hi and to give us a chance to update each other about what we're doing.
@@ -40,6 +38,11 @@ Both the Rome and London Rust user groups will have hack-and-learn events at the
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
 
 * Rome: TBA
+
+
+### Past events
+
+See [past shared events](past_shared_events/index.md) and the past events pages of the individual groups: [London](../London/Past_Events.md), [Cambridge](../Cambridge/Past_Events.md), [Rome](../Rome/past_events/index.md)
 
 
 ## Activities
