@@ -37,6 +37,8 @@ Both the Rome and London Rust user groups will have hack-and-learn events at the
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
 
+    We don't have a food sponsor, but will organize an order from a pizza delivery place for those interested.
+
 * Rome: TBA
 
 
