@@ -14,4 +14,4 @@ events, see [Home](http://rustaceans.uk/).
 
 * See our [project list](Projects.md)--get your project onto the list!
 
-* [Past events](past_events/index.md)
+* [Past events](Past_Events.md)

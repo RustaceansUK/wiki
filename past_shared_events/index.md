@@ -9,7 +9,7 @@ These are events we shared amongst multiple groups via video conferencing.
 
 For events by individual groups, instead see:
 
-* [London](../London/past_events/index.md)
+* [London](../London/Past_Events.md)
 * [Cambridge](../Cambridge/Past_Events.md)
 * [Rome](../Rome/past_events/index.md)
 
