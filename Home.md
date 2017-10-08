@@ -19,8 +19,6 @@ We're currently 3 groups, which have their own area on this website:
 * [Cambridge](Cambridge/index.md)
 * [Rome](Rome/index.md)
 
-<!-- ^- add link to your subdirectory once ready -->
-
 
 ## Our next events
 
