@@ -26,11 +26,7 @@ We're currently 3 groups, which have their own area on this website:
 
 Both the Rome and London Rust user groups will have hack-and-learn events at the same time. We will again use video conferencing to say hi and to give us a chance to update each other about what we're doing (but we will keep it shorter this time).
 
-* London: Rust learning and hacking evening #4, **6:30 to 9:00 PM (British time) at Code Node** (Skills Matter).
-
-    Please register with our host Skills Matter
-    [here](https://skillsmatter.com/meetups/9939-rust-learning-and-hacking-evening-4). This
-    event is also [on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/244021078/).
+* London: Rust learning and hacking evening #4, **6:30 to 9:00 PM (British time) at Code Node** (Skills Matter). Please register [here (skillsmatter.com)](https://skillsmatter.com/meetups/9939-rust-learning-and-hacking-evening-4) and/or [here (meetup.com)](https://www.meetup.com/Rust-London-User-Group/events/244021078/).
 
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
