@@ -24,7 +24,7 @@ We're currently 3 groups, which have their own area on this website:
 
 ### **Monday, October 16, 2017**: second shared hacking and learning event, in Rome and London
 
-Both the Rome and London Rust user groups will have hack-and-learn events at the same time. We will again use video conferencing to say hi and to give us a chance to update each other about what we're doing.
+Both the Rome and London Rust user groups will have hack-and-learn events at the same time. We will again use video conferencing to say hi and to give us a chance to update each other about what we're doing (but we will keep it shorter this time).
 
 * London: Rust learning and hacking evening #4, **6:30 to 9:00 PM (British time) at Code Node** (Skills Matter).
 
