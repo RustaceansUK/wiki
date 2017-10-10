@@ -29,8 +29,8 @@ Both the Rome and London Rust user groups will have hack-and-learn events at the
 * London: Rust learning and hacking evening #4, **6:30 to 9:00 PM (British time) at Code Node** (Skills Matter).
 
     Please register with our host Skills Matter
-    (here--TBA). This
-    (event is also on meetup.com--TBA). 
+    [here](https://skillsmatter.com/meetups/9939-rust-learning-and-hacking-evening-4). This
+    event is also [on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/244021078/).
 
     * [Project list](London/Projects.md) (get your project onto it!). 
     * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
