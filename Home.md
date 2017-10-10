@@ -37,7 +37,10 @@ Both the Rome and London Rust user groups will have hack-and-learn events at the
 
     We don't have a food sponsor, but will organize an order from a pizza delivery place for those interested.
 
-* Rome: TBA
+* Rome: Rust learning and hacking evening #2, **19:00 to 21:00 (Italian time) at LUISS ENLABS**. Please register [here](https://www.meetup.com/it-IT/Rust-Roma/events/243948917/). 
+
+    * [Project list](../Rome/Projects.md) (get your project onto it!). 
+    * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (IRC: `wolf4ood`).
 
 
 ### Past events
