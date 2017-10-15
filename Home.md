@@ -35,13 +35,13 @@ Both the Rome and London Rust user groups will have hack-and-learn events at the
 
 * Rome: Rust learning and hacking evening #2, **19:00 to 21:00 (Italian time) at LUISS ENLABS**. Please register [here](https://www.meetup.com/it-IT/Rust-Roma/events/243948917/). 
 
-    * [Project list](../Rome/Projects.md) (get your project onto it!). 
+    * [Project list](Rome/Projects.md) (get your project onto it!). 
     * Organizers: [Claudio](https://github.com/wbigger) (IRC: `wbigger`), [Enrico](https://github.com/maggiolo00) (IRC: `wolf4ood`).
 
 
 ### Past events
 
-See [past shared events](past_shared_events/index.md) and the past events pages of the individual groups: [London](../London/Past_Events.md), [Cambridge](../Cambridge/Past_Events.md), [Rome](../Rome/past_events/index.md)
+See [past shared events](past_shared_events/index.md) and the past events pages of the individual groups: [London](London/Past_Events.md), [Cambridge](Cambridge/Past_Events.md), [Rome](Rome/past_events/index.md)
 
 
 ## Activities
