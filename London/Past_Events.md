@@ -19,7 +19,7 @@ Please register with our host Skills Matter
 
 *(by Christian)*
 
-We were allocated a room with tables in a class room configuration (everybody looking to the front), perhaps because I didn't specify our needs explicitly this time, so I asked whether this could be changed and Skills Matter gave us a meeting style room instead. This room was worryingly small though and in fact we used up every single chair (17 people). I'll make our needs clear in advance next time.
+Originally we were allocated a room with tables in a class room configuration (everybody looking to the front), perhaps because I didn't specify our needs explicitly this time, so I asked whether this could be changed and thankfully Skills Matter gave us a meeting style room instead. This room was worryingly small though and in fact we used up every single chair (17 people, of the 24 RSVPs and 14 registrations at skills matter (of which 5 shared)). I'll make our needs clear in advance next time.
 
 Interestingly, on this evening we had many attendants who had not come before (not even a talk event), it was about half new people and half previous attendants.
 
