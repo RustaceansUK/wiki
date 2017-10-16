@@ -5,6 +5,11 @@ properly formatted versions of these documents.
 
 # Projects of the London group
 
+## Challenges
+
+* [Thinh](https://www.meetup.com/Rust-London-User-Group/members/59080642/) will work through [The Matasano (cryptopals) Crypto Challenges](http://cryptopals.com/) (for more info see [1](https://news.ycombinator.com/item?id=8166064), [2](https://news.ycombinator.com/item?id=15036766), not to be confused with former Starfighter: [3](https://news.ycombinator.com/item?id=9173939), [4](https://news.ycombinator.com/item?id=12415786))
+
+
 ## Projects 
 
 *Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address. (Alternatively add it yourself, see [Github](../Github.md).)*
