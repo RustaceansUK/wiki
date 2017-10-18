@@ -6,8 +6,30 @@ properly formatted versions of these documents.
 Here are the past announcements of our events as well as minutes /
 wrap up texts.
 
+## Monday October 16 2017: Rust learning and hacking evening #4
 
-## Monday September 18: Rust learning and hacking evening #3
+### Announcement
+
+* London: Rust learning and hacking evening #4, **6:30 to 9:00 PM (British time) at Code Node** (Skills Matter). Please register [here (skillsmatter.com)](https://skillsmatter.com/meetups/9939-rust-learning-and-hacking-evening-4) and/or [here (meetup.com)](https://www.meetup.com/Rust-London-User-Group/events/244021078/).
+
+### Wrap-up
+
+*(by Christian)*
+
+We were planning to do (stripped-down) video conferencing with the Rome group, but I couldn't get enough time to finally install another laptop so that I could do Rust coding while the other laptop is hooked up to the PA, and I was late to the event location while Rome were starting half an hour earlier, so I cancelled the conferencing. Enrico/Claudio from Rome said they had some problems setting up, so, good match. We will be doing conferencing again another time.
+
+This time I had asked for the tables in "cabaret" configuration, how Skills Matter calls it, in advance. Because I also had said that we were going to do video conferencing, Skills Matter set us up with a laptop with Hangouts and microphone/PA ready to go (looks like they added this as a new capability versus two months ago) (so ironically I could actually have gone forward with the conferencing).
+
+Attendants trickled in later than usual, by about 6:45 we were mostly complete. We had (20+7, -4 overlapping =) 23 registrations and I was estimating 12-18 people to come, 11 actually came.
+
+Again the projects list seems a bit pointless: Emanuel was the only attendant present with a project on the list. I asked everybody in the round about what they are working on, which works well with so few participants. I decided not to make an effort to put the projects onto the list after the fact. Since I couldn't see any obvious way to allocate the attendants onto two table groups I suggested to move two table groups together and see whether it would be going too noisy. Given that this room had carpet and thus less echo, and 2 (later 4) newbies working on basic stuff moved to another table group, that probably worked well.
+
+I was working with a couple guys a bit on the book contents but mostly with the help of others managed to successfully install Visual Studio with the RLS plugin/toolchain on my laptop.
+
+Jasper again cared about getting us some food. Thanks Jasper!
+
+
+## Monday September 18 2017: Rust learning and hacking evening #3
 
 ### Announcement
 
