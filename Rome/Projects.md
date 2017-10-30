@@ -17,6 +17,10 @@ properly formatted versions of these documents.
 
 ## Previous projects
 
+### On the [second learn & hack](past_events/meetup-lh-2.md)
+
+* [rust-week-bot](https://github.com/RustRome/rust-week-bot) by Francesco Uliana
+
 ### On the [first learn & hack](past_events/meetup-lh-1.md)
 
 * [rust-mailer](https://github.com/RustRome/web-playground) by Enrico Risa
