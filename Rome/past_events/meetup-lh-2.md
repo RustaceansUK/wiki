@@ -4,7 +4,7 @@ properly formatted versions of these documents.
 ---
 
 # Rust Meetup learning & hacking 2
-2017 · October 16 · 19:00 PM
+2017 · October 16 · 19:00
 Fusolab 2.0
 
 ## Announcement
