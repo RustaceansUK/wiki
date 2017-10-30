@@ -22,7 +22,7 @@ We're currently 3 groups, which have their own area on this website:
 
 ## Our next events
 
-TBA.
+[Rome, November 8, 2017](Rome/index.md)
 
 ### Past events
 

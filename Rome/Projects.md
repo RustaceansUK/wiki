@@ -9,6 +9,9 @@ properly formatted versions of these documents.
 
 *Send [Claudio](mailto:wbigger@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Claudio will add it here, so that interested collaborators can inform themselves in advance, and will go through the list at the start of the event asking where you are, so that it is easy for them to find you. (Alternatively add it yourself, see [Github](../Github.md).)*
 
+* keep working on [Rust Week Bot project](https://github.com/RustRome/rust-week-bot), driven by Francesco Uliana together with other meetup member.
+
+
 * keep working on [rust-mailer](https://github.com/RustRome/web-playground), driven by Enrico Risa together with other meetup member.
 
 ...(your entry here)
