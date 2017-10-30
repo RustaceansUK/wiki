@@ -9,7 +9,7 @@ We meet up once a month at LUISS EnLabs (Stazione Termini, Rome), in the frame o
 
 Next meeting will be **November 8, 2017**.
 
-Meetup event: https://www.meetup.com/preview/Rust-Roma/events/244508431
+Meetup event: [https://www.meetup.com/preview/Rust-Roma/events/244508431](https://www.meetup.com/preview/Rust-Roma/events/244508431)
 
 Third evening of hack and learning with Rust! As usual, we will work in two groups, one for personal/group project and one for exercises.
 
