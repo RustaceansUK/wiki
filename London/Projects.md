@@ -5,27 +5,25 @@ properly formatted versions of these documents.
 
 # Projects of the London group
 
-## Planned on the next meetup
+## Challenges
 
-*Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address ASAP; Christian will add it here, so that interested collaborators can inform themselves in advance, and will go through the list at the start of the event asking where you are, so that it is easy for them to find you. (Alternatively add it yourself, see [Github](../Github.md).)*
+* [Thinh](https://www.meetup.com/Rust-London-User-Group/members/59080642/) will work through [The Matasano (cryptopals) Crypto Challenges](http://cryptopals.com/) (for more info see [1](https://news.ycombinator.com/item?id=8166064), [2](https://news.ycombinator.com/item?id=15036766), not to be confused with former Starfighter: [3](https://news.ycombinator.com/item?id=9173939), [4](https://news.ycombinator.com/item?id=12415786))
 
-...(your entry here; if it already has an entry in the previous meetups (see below), please copy it back here)
+
+## Projects 
+
+*Send [Christian](mailto:chrjae@gmail.com) an email with project name, project/Github URL or what the project is about, and whether you are the project initiator, and what name and email address you'd like to have published if not those from your "From" address. (Alternatively add it yourself, see [Github](../Github.md).)*
 
 *See [project ideas](../Project_ideas.md) for more ideas which may not have any takers yet.*
 
-
-### Mentors
-
-We're here for learning, and that means that we can get stuck. Help us get unstuck by mentoring! By volunteering as an official contact during the evening you can enjoy the feeling of helping others, test your knowledge (remember, you only understand something fully once you've been teaching it to others!), and get good karma! You can still work on your own things when there are no questions, and you don't need to do it again in the future. Just hang out in our IRC channel, and people with unsolved questions will ask them there. Add your IRC nickname to the list below so that questioners can "ping" you.
-
-...(your entry here)
+*Also note the [Rome](../Rome/Projects.md) and [Cambridge](../Cambridge/Projects.md) project pages.*
 
 
-## Projects on previous meetups
+* ...(your entry here)
 
-Feel free to copy your project from here into the list above again!
+* [Emanuel](https://github.com/tglman) will hack on file locking in [Persy](https://gitlab.com/tglman/persy)
 
-### On the [second evening](past_events/evening-2.md)
+* [Peter](https://github.com/pedrosland) is working on Rust bindings for the Raspberry Pi cam
 
 * [Rosario](https://github.com/veganpower): make a [Vulkan](https://www.khronos.org/vulkan/) wrapper that uses Rust's features to guarantee correctness.
 
@@ -39,15 +37,6 @@ Feel free to copy your project from here into the list above again!
 
 * [Michael Killough](https://github.com/mjkillough) will probably work on [Cnx](https://github.com/mjkillough/cnx), a simple bar for use with simple window managers, or some [Clippy](https://github.com/rust-lang-nursery/rust-clippy) issues, or perhaps polish [Lanta](https://github.com/mjkillough/lanta) into something others could use.
 
-*Also note the [Rome](../Rome/Projects.md) and [Cambridge](../Cambridge/Projects.md) project pages.*
-
-Mentors:
-
-* Alessandro (for beginners)
-
-
-### On the [first evening](past_events/evening-1.md)
-
 * [libbluez.rs](http://github.com/khvzak/libbluez-rs) by member
   Aleksandr
 
@@ -57,4 +46,13 @@ Mentors:
 
 * <!--XXX project name and URL?-->a [Redis](https://en.wikipedia.org/wiki/Redis) module
   wrapper for Redis modules in Rust (correct?) by member Anthony
+
+
+## Mentors
+
+We're here for learning, and that means that we can get stuck. Help us get unstuck by mentoring! By volunteering as an official contact during the evening you can enjoy the feeling of helping others, test your knowledge (remember, you only understand something fully once you've been teaching it to others!), and get good karma! You can still work on your own things when there are no questions, and you don't need to do it again in the future. Just hang out in our IRC channel, and people with unsolved questions will ask them there. Add your IRC nickname to the list below so that questioners can "ping" you.
+
+### Mentors on previous meetups:
+
+* Alessandro (for beginners)
 

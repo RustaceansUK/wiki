@@ -19,27 +19,14 @@ We're currently 3 groups, which have their own area on this website:
 * [Cambridge](Cambridge/index.md)
 * [Rome](Rome/index.md)
 
-<!-- ^- add link to your subdirectory once ready -->
-
 
 ## Our next events
 
-* **Mon Sep 18**: Rust learning and hacking evening #3, London
+TBA.
 
-    Please register with Skills matter
-    [here](https://skillsmatter.com/meetups/9938-rust-learning-and-hacking-evening-3). This
-    [event is also on meetup.com](https://www.meetup.com/Rust-London-User-Group/events/243263150/). 
+### Past events
 
-    * [Project list](London/Projects.md) (get your project onto it!). 
-    * Organizers: [Christian](https://github.com/pflanze) (IRC: `pflanze`), [Mark](https://github.com/booyaa) (`booyaa`).
-
-
-* **Mon Oct 16**: Rust learning and hacking evening #4, London
-
-    (To be announced.)
-
-
-(For our past events, see [here](past_shared_events/index.md))
+See [past shared events](past_shared_events/index.md) and the past events pages of the individual groups: [London](London/Past_Events.md), [Cambridge](Cambridge/Past_Events.md), [Rome](Rome/past_events/index.md)
 
 
 ## Activities
