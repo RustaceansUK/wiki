@@ -10,7 +10,7 @@ Fusolab 2.0
 ## Announcement
 Seconda serata all' insegna dell' hacking and learning Rust. L'idea è quella di lavorare su un progetto che ti interessa, che sia il tuo o di qualcun altro proposto. In alternativa per le persone alle prime armi con Rust c'e sempre exercism.io o qualche altro materiale che aiuti nei primi passi con il linguaggio.
 
-Evento meetup: https://www.meetup.com/Rust-Roma/events/243948917/
+Evento meetup: [https://www.meetup.com/Rust-Roma/events/243948917/](https://www.meetup.com/Rust-Roma/events/243948917/)
 
 ## Wrap-up
 ### Short version
