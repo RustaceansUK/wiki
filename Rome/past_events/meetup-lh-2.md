@@ -5,7 +5,7 @@ properly formatted versions of these documents.
 
 # Rust Meetup learning & hacking 2
 2017 · October 16 · 19:00
-Fusolab 2.0
+LUISS EnLabs, Via Marsala
 
 ## Announcement
 Seconda serata all' insegna dell' hacking and learning Rust. L'idea è quella di lavorare su un progetto che ti interessa, che sia il tuo o di qualcun altro proposto. In alternativa per le persone alle prime armi con Rust c'e sempre exercism.io o qualche altro materiale che aiuti nei primi passi con il linguaggio.
