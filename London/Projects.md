@@ -23,7 +23,7 @@ properly formatted versions of these documents.
 
 * [Emanuel](https://github.com/tglman) will hack on file locking in [Persy](https://gitlab.com/tglman/persy)
 
-* [Peter](https://github.com/pedrosland) is working on Rust bindings for the Raspberry Pi cam
+* [Peter](https://github.com/pedrosland) is working on Rust bindings for the Raspberry Pi camera [Rascam](https://github.com/pedrosland/rascam)
 
 * [Rosario](https://github.com/veganpower): make a [Vulkan](https://www.khronos.org/vulkan/) wrapper that uses Rust's features to guarantee correctness.
 
